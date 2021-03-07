@@ -1,0 +1,119 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Arirang TV" tvg-language="Korean" tvg-logo="https://i.imgur.com/E7DD1Fk.jpg" tvg-country="KR" tvg-url="https://www.arirang.com/" group-title="News",Arirang TV
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arte HD" tvg-language="Korean" tvg-logo="" tvg-country="KR" tvg-url="" group-title="Art",Arte HD
+http://etomatomobile.hscdn.com/artemobile/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel A" tvg-language="Korean" tvg-logo="https://i.imgur.com/GIr5rvG.png" tvg-country="KR" tvg-url="http://www.ichannela.com" group-title="",Channel A
+http://channelalive.ktcdn.co.kr/chalivepc/_definst_/atv2/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MTI1MTY1NjMsInBhdGgiOiIvY2hhbGl2ZXBjL19kZWZpbnN0Xy9hdHYyIn0.P1qf_v4tPgBMh7YpyN_rhhqRazq7S0G1CgzDa-3ztfQ
+#EXTINF:-1 tvg-id="" tvg-name="Channel A (2)" tvg-language="Korean" tvg-logo="https://i.imgur.com/GIr5rvG.png" tvg-country="KR" tvg-url="http://www.ichannela.com" group-title="",Channel A (2)
+rtmp://channelalive.ktcdn.co.kr/chalivepc/_definst_/atv2
+#EXTINF:-1 tvg-id="" tvg-name="BBS Buddhist Broadcasting" tvg-language="Korean" tvg-logo="https://i.imgur.com/N4OWFzx.jpg" tvg-country="KR" tvg-url="" group-title="Religious",BBS Buddhist Broadcasting
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBS" tvg-language="Korean" tvg-logo="https://i.imgur.com/Iy0yBaM.jpg" tvg-country="KR" tvg-url="" group-title="Religious",CBS
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGNTV" tvg-language="Korean" tvg-logo="https://i.imgur.com/SQI9PAz.png" tvg-country="KR" tvg-url="" group-title="Religious",CGNTV
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CJmall" tvg-language="Korean" tvg-logo="https://i.imgur.com/jSitXqc.jpg" tvg-country="KR" tvg-url="" group-title="Shopping",CJmall
+http://cjmall.live.cdn.visioncloud.co.kr/cjmalllive/stream3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CTS" tvg-language="Korean" tvg-logo="https://i.imgur.com/3w6pzTc.jpg" tvg-country="KR" tvg-url="https://www.cts.tv/" group-title="Religious",CTS
+https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EBS 1" tvg-language="Korean" tvg-logo="https://i.imgur.com/PPj5kG4.png" tvg-country="KR" tvg-url="http://www.ebs.co.kr/" group-title="Educational",EBS 1
+https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EBS 2" tvg-language="Korean" tvg-logo="https://i.imgur.com/1B3vyUD.png" tvg-country="KR" tvg-url="http://www.ebs.co.kr/" group-title="Educational",EBS 2
+http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EBS Kids" tvg-language="Korean" tvg-logo="https://i.imgur.com/mTh1LgK.png" tvg-country="KR" tvg-url="http://www.ebs.co.kr/" group-title="Kids",EBS Kids
+http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EBS+ 1" tvg-language="Korean" tvg-logo="https://i.imgur.com/EtbdeSw.jpg" tvg-country="KR" tvg-url="http://www.ebs.co.kr/" group-title="Educational",EBS+ 1
+http://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EBS+ 2" tvg-language="Korean" tvg-logo="https://i.imgur.com/KDG3rSQ.png" tvg-country="KR" tvg-url="http://www.ebs.co.kr/" group-title="Educational",EBS+ 2
+http://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EBSe" tvg-language="Korean" tvg-logo="https://i.imgur.com/lPjkRuV.jpg" tvg-country="KR" tvg-url="http://www.ebs.co.kr/" group-title="Educational",EBSe
+http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/Ze57sqQ.png" tvg-country="KR" tvg-url="" group-title="Korean",EBSi
+http://ebsonair.ebs.co.kr:1935/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Edaily TV" tvg-language="Korean" tvg-logo="https://i.imgur.com/UvRoc22.png" tvg-country="KR" tvg-url="" group-title="Korean",Edaily TV
+http://edaily.flive.skcdn.com:1935/high/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gugbang TV" tvg-language="Korean" tvg-logo="https://i.imgur.com/xD5JVNo.png" tvg-country="KR" tvg-url="" group-title="Korean",Gugbang TV
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GCN TV" tvg-language="Korean" tvg-logo="https://i.imgur.com/nCbtYiB.png" tvg-country="KR" tvg-url="" group-title="Religious",GCN TV
+http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Good TV" tvg-language="Korean" tvg-logo="https://i.imgur.com/L88OaF8.png" tvg-country="KR" tvg-url="http://www.goodtv.co.kr/" group-title="Religious",Good TV
+http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GS MY SHOP" tvg-language="Korean" tvg-logo="" tvg-country="KR" tvg-url="https://i.imgur.com/txipUvk.png" group-title="Shopping",GS MY SHOP
+https://livem.gsshop.com/gsmyshop_hd/_definst_/gsmyshop_hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GS SHOP" tvg-language="Korean" tvg-logo="" tvg-country="KR" tvg-url="https://i.imgur.com/EePhtoR.jpg" group-title="Shopping",GS SHOP
+https://livem.gsshop.com/gsshop_hd/_definst_/gsshop_hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hyundai Hmall" tvg-language="Korean" tvg-logo="https://i.imgur.com/SyjLqrH.jpg" tvg-country="KR" tvg-url="" group-title="Shopping",Hyundai Hmall
+http://123.111.139.103:1935/live/hmall.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JTBC" tvg-language="Korean" tvg-logo="https://i.imgur.com/oTAWtZ1.png" tvg-country="KR" tvg-url="http://onair.jtbc.joins.com/"1 group-title="Entertainment",JTBC
+https://jtbclive-cdn.jtbc.joins.com/mobileweb/D5AE02B12AAD36CBBFE70666F6274B001EB989CF5F1951A2313CBF66EEFC6700E5576B7847E1EF3C15516191FCB2CF90/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JTBC" tvg-language="Korean" tvg-logo="https://i.imgur.com/oTAWtZ1.png" tvg-country="KR" tvg-url="http://onair.jtbc.joins.com/"1 group-title="Entertainment",JTBC HD
+https://jtbclive-cdn.jtbc.joins.com/mobileweb/D5AE02B12AAD36CBBFE70666F6274B006C4069451F5FBA895C6E21AB3BEFFC2EC9534D48E7936B813FCF07ED82437FC6/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Korea TV" tvg-language="Korean" tvg-logo="https://i.imgur.com/e6yeIHI.gif" tvg-country="KR" tvg-url="" group-title="",Korea TV
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="K+" tvg-language="Korean" tvg-logo="https://i.imgur.com/4DEUpdm.jpg" tvg-country="KR" tvg-url="" group-title="Entertainment",K+
+http://210.210.155.35/uq2663/h/h08/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KBS LiveCam DokDo" tvg-language="Korean" tvg-logo="https://i.imgur.com/b7uMB9T.png" tvg-country="KR" tvg-url="http://www.kbs.co.kr" group-title="LiveCam",KBS LiveCam DokDo
+http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KBS1" tvg-language="Korean" tvg-logo="https://i.imgur.com/I4Z8R02.jpg" tvg-country="KR" tvg-url="http://www.kbs.co.kr"1 group-title="Entertainment",KBS1
+plugin://plugin.video.wavvem/?contentid=K01&mode=LIVE
+#EXTINF:-1 tvg-id="" tvg-name="KBS2" tvg-language="Korean" tvg-logo="https://i.imgur.com/TPAaSO9.png" tvg-country="KR" tvg-url="http://www.kbs.co.kr"1 group-title="Entertainment",KBS2
+plugin://plugin.video.wavvem/?contentid=K02&mode=LIVE
+#EXTINF:-1 tvg-id="" tvg-name="KBS News 24" tvg-language="Korean" tvg-logo="https://i.imgur.com/Hw1yHDU.png" tvg-country="KR" tvg-url="http://www.kbs.co.kr"1 group-title="Entertainment",KBS News 24
+http://news24.gscdn.kbs.co.kr/news24-b/news24-b_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL25ld3MyNC5nc2Nkbi5rYnMuY28ua3IvbmV3czI0LWIvbmV3czI0LWJfaGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYwNDM5NDg1M319fV19&Signature=LuGV6Spd5RSHj1uLv7g7Z7B5cmiDkY0CEmNHskigdQlZXDR59ALU~CXeo0efMH1hSua9Kh-JwWEoTDeNsc9RpKoiw0AZvSQQynmIt9yDq-NRdOR5skrdi4RvcynGoIv~5~h7umJPY6hCueF6rPoYNnfSbM-xgQtyYCXs6Pckf64MBhW68CSHaXKSSd8fWgUJgPdBaMPy6F6no0pd6pdkv4YWafny390XhuiQWpmE3fhjTP7WUlRVCz2-wQPHxEnnQ9JHoPA8JxPyv4x4IoK1WztwLHhernZKmvlQJOsNG6upW61li1bfsaWnUxtmoRkYuk1nW-nMypUsHql5u8F12w__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+#EXTINF:-1 tvg-id="" tvg-name="KBS Drama" tvg-language="Korean" tvg-logo="https://i.imgur.com/q0iBpra.png" tvg-country="KR" tvg-url="http://www.kbs.co.kr"1 group-title="Entertainment",KBS Drama
+http://kbsndrama.gscdn.kbs.co.kr/kbsndrama-m/kbsndrama-m_sd.m3u8?Expires=1603614204&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL2tic25kcmFtYS5nc2Nkbi5rYnMuY28ua3Iva2JzbmRyYW1hLW0va2JzbmRyYW1hLW1fc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYwMzYxNDIwNH19fV19&Signature=LPro7LahE7wBXd1hagZ71rkCH6Gtc3A5mI-ez-MFl-OYq1OvooRax5Ia4vMGrZp3MvuBh07DDLmPYNdHJYVZACU6RggXj~5QBOhg~xqV8DiCNjwE7Epy~VN3s1rWghDa9cB4uMvYMVz1HnY~dbz6WkzrjZ7Mz~b5t1PlKAkm6oS9KbG9OY1wTZPxfeyS~HWbNSady-KxydoeViYQlC59uaxPlZeioDbjDYJBagKSqTEs8iZpeMTs-QFct6UxhcaKOqFdh2hRMkaF0pCembQeCQfwX5RmdBtBn1~oiOCnin~A9Qt3LbGGXTx2f5VggRDt3PdJirz9QAUmvpRPhCXJjA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+#EXTINF:-1 tvg-id="" tvg-name="KBS Joy" tvg-language="Korean" tvg-logo="https://i.imgur.com/2LsJFd7.jpg" tvg-country="KR" tvg-url="http://www.kbs.co.kr"1 group-title="Entertainment",KBS Joy
+http://59.28.86.246:9981/stream/channelid/48
+#EXTINF:-1 tvg-id="" tvg-name="KBS W" tvg-language="Korean" tvg-logo="https://i.imgur.com/TeGJmNK.png" tvg-country="KR" tvg-url="http://www.kbs.co.kr"1 group-title="Entertainment",KBS W
+http://kbsnw.gscdn.kbs.co.kr/kbsnw-m/kbsnw-m_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL2tic253LmdzY2RuLmticy5jby5rci9rYnNudy1tL2tic253LW1fc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYwMzYxNDQxOH19fV19&Signature=JRIAMbL5T~9LoEJZT73CfoQfsPd8UZFCsBdMfdIB7mTNb6On~0zgSaMu~PU6WEhnmfp-jGgVbDqOFrjJXJC-qcVVXUF3A5J2bGAmEBFaGuQNErJbzC~O1GVyBK3f8qlo-woueH66uNDE~jd89D86zNF2K8zEGpFOYrvjn2wZkvxfovTQDpIdFVxGX2DyWY0PlIslXdkO8MdhLO60HxADBAVaYFBjbbybe7xfNj4BE3njo3Iv0Zbns9I42kKqDwqrZiliahmB~BedBDK-hiXMTqrAMscwpQ1Uk1PgYm4bEksZLOV4UHfGFdNMPZECDAkxbGwsktn54yYTWZpb95pbLg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+#EXTINF:-1 tvg-id="" tvg-name="KBSN Life" tvg-language="Korean" tvg-logo="https://i.imgur.com/Miwudgr.jpg" tvg-country="KR" tvg-url="http://www.kbs.co.kr"1 group-title="Entertainment",KBSN Life
+http://kbsnlife.gscdn.kbs.co.kr/kbsnlife-m/kbsnlife-m_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL2tic25saWZlLmdzY2RuLmticy5jby5rci9rYnNubGlmZS1tL2tic25saWZlLW1fc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYwMzYxNDQzNH19fV19&Signature=m-opevna3lfZJEjQ5Ikn0SezckQ6lnxbvHq4nW874FsKb8mpxDv1PY7VZ2FnowFPIuNSC2fpJWLkOb-KlCe53n3hCapo3Adu1dd7M5qZxYBTYGlRqNuLGxLNC5b3ifRETnygfgvsCwupMq0Q8kVd9~UQ2sqpQz3bHk9TauJPU1QuiQWONSpt2uyCa5RyyoTgkCA0FFTxCQIOrDmoWrgaCvvI97arYSE9-JYmfONwjbmg~Tw2Skkf~nSQ6g6C5Q5FViSJ66ZFAv1FAkpqiQ-nl2SZMSvJbOXur65eCR0h7jZ1ozgv5ibGNwRKrmm9UiYwNq4s-9cbYSxQW7~b-wNHbQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+#EXTINF:-1 tvg-id="" tvg-name="KBS Kids" tvg-language="Korean" tvg-logo="https://i.imgur.com/QisfX52.jpg" tvg-country="KR" tvg-url="http://www.kbs.co.kr"1 group-title="Entertainment",KBS Kids
+http://kbsnkids.gscdn.kbs.co.kr/kbsnkids-m/kbsnkids-m_sd.m3u8?dvr&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL2tic25raWRzLmdzY2RuLmticy5jby5rci9rYnNua2lkcy1tL2tic25raWRzLW1fc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYwMzYxNDU5M319fV19&Signature=SMw8BgJUO08rKcHsxTFBJkd584QzOv8ZNOe12uTPsm-A8IQzpzPB00C98r3ztIcdni5cG4JgHeptn5Afgm-H~I9s2Phb5g2mk6emJGDaTFoZQcPg~e1CYJtTSSSvfCe~gqcwTWnjjeN2elbd8itXXpbMJSumrFvatDbOaX2DKa2Pf514boeJ~Zx~vzMB6dwBKxHxNt0fUov5aFUKQVkeosXmlq-7QpakcEtKmvBSxcEzKg4xv-ICSfzJMP1DSZtLUDQImKuXYewSlsexidrZNyAbNm7v3nC-p5jMseRVnPtXX3cXLjpyIY7xOdEY9ahvtWeuzgqwrQblB5PKsdIEag__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+#EXTINF:-1 tvg-id="" tvg-name="KBS World" tvg-language="Korean" tvg-logo="https://i.imgur.com/ctDyFhV.png" tvg-country="KR" tvg-url="http://kbsworld.kbs.co.kr"1 group-title="Entertainment",KBS World
+http://world.gscdn.kbs.co.kr/world-b/world-b_sd.m3u8?Expires=1604395291&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL3dvcmxkLmdzY2RuLmticy5jby5rci93b3JsZC1iL3dvcmxkLWJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYwNDM5NTI5MX19fV19&Signature=ThEzmfyVj6~dFvHdJISX9jQK8ZMWl~iTvMNcj43iKLE6gApa6~pe2bA4pd7H2Y5fMhxo9MEx8WgbNzS30yLEI~ULj4pX6qvbxGvtgljVxyDRaB4fTiPb1MUjAyZQ1mjgQ71pnEeTKyB2mWdb9kE6cxT4tZ18feh3sq86s2nejVzVlw9jzrvsPWu1kJGcp~n~2zBw1HrmM-rA3~lbENV8eAdSAu5kWh78OpgHHC8u3Intb84OsHx6CT9rK8O16HSj7ZNqD4QGunnGeb5UQFfqOGLUayLoDtzjViHX4yHmlsSlRLafuHHs-X~tPVbN4obhYCiuiARs4TiXfYT9xRA60A__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+#EXTINF:-1 tvg-id="" tvg-name="KBS World (TrueID)" tvg-language="Korean" tvg-logo="https://i.imgur.com/ctDyFhV.png" tvg-country="KR" tvg-url="http://kbsworld.kbs.co.kr"1 group-title="Entertainment",KBS World (TrueID)
+https://cdn778.stm.trueid.net/live2/142_w_auto_tidapp.smil/playlist.m3u8?appid=trueid&type=live&visitor=web&uid=27529186&did=MTQyOTI0OTQ5NS4xNTkwMTMzNjQx&mpass=Ahb11LGjiJdjE_jU_VL8xh0rX8ew_DYgytri0JcsSICv-of3NxBK7vmlmR3dXModlr2FslcMOCu4eUZgjQLQfz5Xu-6wLIVREZPuQB8Gydc6Ojn4KikByRmQQobVvJoztUU&sid=1f87b39575&rt=1608115619&tk=166HgwZJVQc-hcs8xgnMdRgevFhUybEW_B2ZdmM8fMk
+#EXTINF:-1 tvg-id="" tvg-name="KBS World 2 (TrueID)" tvg-language="Korean" tvg-logo="https://i.imgur.com/ctDyFhV.png" tvg-country="KR" tvg-url="http://kbsworld.kbs.co.kr"1 group-title="Entertainment",KBS World 2 (TrueID)
+https://cdn778.stm.trueid.net/live2/142_w_auto_tidapp.smil/chunklist_w2112231928.m3u8?appid=trueid&mpass=Ahb11LGjiJdjE_jU_VL8xh0rX8ew_DYgytri0JcsSICv-of3NxBK7vmlmR3dXModlr2FslcMOCu4eUZgjQLQfz5Xu-6wLIVREZPuQB8Gydc6Ojn4KikByRmQQobVvJoztUU&sid=1f87b39575&rt=1608115619&tk=166HgwZJVQc-hcs8xgnMdRgevFhUybEW_B2ZdmM8fMk
+#EXTINF:-1 tvg-id="" tvg-name="KBS World 3 (TrueID)" tvg-language="Korean" tvg-logo="https://i.imgur.com/ctDyFhV.png" tvg-country="KR" tvg-url="http://kbsworld.kbs.co.kr"1 group-title="Entertainment",KBS World 3 (TrueID)
+https://cdn778.stm.trueid.net/live2/142_w_auto_tidapp.smil/index.m3u8?appid=trueid&did=MTQyOTI0OTQ5NS4xNTkwMTMzNjQx&mpass=Ahb11LGjiJdjE_jU_VL8xh0rX8ew_DYgytri0JcsSICv-of3NxBK7vmlmR3dXModlr2FslcMOCu4eUZgjQLQfz5Xu-6wLIVREZPuQB8Gydc6Ojn4KikByRmQQobVvJoztUU&sid=1f87b39575&rt=1608115619&tk=166HgwZJVQc-hcs8xgnMdRgevFhUybEW_B2ZdmM8fMk
+#EXTINF:-1 tvg-id="" tvg-name="KNN" tvg-language="Korean" tvg-logo="https://i.imgur.com/iQUnf5E.jpg" tvg-country="KR" tvg-url="http://www.knn.co.kr/"1 group-title="",KNN
+http://211.220.195.200:1935/live/mp4:KnnTV.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lotte Homeshopping" tvg-language="Korean" tvg-logo="https://i.imgur.com/0rJj2KA.jpg" tvg-country="KR" tvg-url="" group-title="Shopping",Lotte Homeshopping
+http://mohlslive.lotteimall.com/live/livestream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Maeil Broadcasting Network" tvg-language="Korean" tvg-logo="https://i.imgur.com/MiQwAmJ.jpg" tvg-country="KR" tvg-url="http://www.mbn.co.kr/"1 group-title="",Maeil Broadcasting Network
+rtmp://origin.flive.skcdn.com/mbn-auth1/1000k
+#EXTINF:-1 tvg-id="" tvg-name="MBC HD" tvg-language="Korean" tvg-logo="https://i.imgur.com/kTPYn2E.jpg" tvg-country="KR" tvg-url="http://www.imbc.com/"1 group-title="Entertainment",MBC HD
+plugin://plugin.video.wavvem/?contentid=M01&mode=LIVE
+#EXTINF:-1 tvg-id="" tvg-name="MBC SD" tvg-language="Korean" tvg-logo="https://i.imgur.com/kTPYn2E.jpg" tvg-country="KR" tvg-url="http://www.imbc.com/"1 group-title="Entertainment",MBC SD
+http://ottlivesd.imbc.com/ottlive_sd/_definst_/ottlive_sd.stream/playlist.m3u8?_lsu_sa_=6AD1091153133E64344BA5943001EB43F52E3755400E824839B03Aa0260C3BB600a293B234F26B4970CD3281E6b67146936AB8967D43CF57A0E864DEA4FDAAA0DD463EFFC7EAAFE26909EFBE13604D87D828CA917B4199BD339908F4A1B3C76D2096501BE2313B83AD6F12BAD7439B6C6D14249AC2A2E2B4931833071546A18E
+#EXTINF:-1 tvg-id="" tvg-name="MTN" tvg-language="Korean" tvg-logo="https://i.imgur.com/QMDDHd1.gif" tvg-country="KR" tvg-url="" group-title="Financial",MTN
+https://cdnlive.mtn.co.kr/mtnlive/_definst_/720/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBS Korea Agricultural Broadcasting" tvg-language="Korean" tvg-logo="https://i.imgur.com/loWf3B5.jpg" tvg-country="KR" tvg-url="" group-title="",NBS Korea Agricultural Broadcasting
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OBS" tvg-language="Korean" tvg-logo="https://i.imgur.com/C1zvP3w.png" tvg-country="KR" tvg-url="" group-title="Korean",OBS
+http://59.25.202.82:1935/live/obsstream1/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBS" tvg-language="Korean" tvg-logo="https://i.imgur.com/QLU1hem.png" tvg-country="KR" tvg-url="https://www.sbs.co.kr/"1 group-title="Entertainment",SBS
+plugin://plugin.video.wavvem/?contentid=S01&mode=LIVE
+#EXTINF:-1 tvg-id="" tvg-name="SBS2" tvg-language="Korean" tvg-logo="https://i.imgur.com/QLU1hem.png" tvg-country="KR" tvg-url="https://www.sbs.co.kr/"1 group-title="Entertainment",SBS2
+rtmp://live.sbs.co.kr/sbsch6/_definst_/sbsch61.stream?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MTI0MzQyMjUsInBhdGgiOiIvc2JzY2g2L19kZWZpbnN0Xy9zYnNjaDYxLnN0cmVhbSIsImR1cmF0aW9uIjoxODB9.UPmVFKRlmQczsBooA5DoJFuh3zPHFgKkcUCz5S1BMTA
+#EXTINF:-1 tvg-id="" tvg-name="SBS International" tvg-language="Korean" tvg-logo="https://i.imgur.com/JNmRU3V.png" tvg-country="KR" tvg-url="" group-title="International",SBS International
+https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBS Plus" tvg-language="Korean" tvg-logo="https://i.imgur.com/lJdOstp.png" tvg-country="KR" tvg-url="" group-title="",SBS Plus
+https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBS Star" tvg-language="Korean" tvg-logo="https://i.imgur.com/S1YWrNd.jpg" tvg-country="KR" tvg-url="" group-title="",SBS Star
+https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TBC" tvg-language="Korean" tvg-logo="" tvg-country="KR" tvg-url="" group-title="Entertainment",TBC
+http://221.157.125.239:1935/live/psike/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-language="Korean" tvg-logo="https://i.imgur.com/wqlTcbI.png" tvg-country="KR" tvg-url="" group-title="Entertainment",TBS
+http://tbs.hscdn.com/tbstvweb/tbstv/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="tvN" tvg-language="Korean" tvg-logo="https://i.imgur.com/QVKzHm6.jpg" tvg-country="KR" tvg-url="http://tvn.tving.com"1 group-title="Entertainment",tvN
+https://tvn-mcdn.tving.com/tvn/live1500.smil/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IioiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MDg0MzY1MTl9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=ejsDmq9TSYwXDGy7NaBct9nBcZM8yulVUBFQBSmeoZwrl5MjaxbG1m9KZYUAvskIGukaguaUkpoBCZHGPWArW6qEhcjv35vRB2mvZ6~KtrMrephfwKo8W5rnC1aECBit4gErKYZk5n~srZCfTLXF0EE6EgMuI7lh22HJQ8yKbG~DrcM-17ojV-UU6VgrxBgOInqVz8k9r8tVHPzhq98gPagcTpHSTCufZsGZ991K4X6STkTYxLIPCgOWmI8O1uTkymtojBiC2Ml29Ye~BKrR0qnzzscVIOSs6D~sfVsgA2HHxn-bNuBpxfA1bUkO8PWB3cyyULsXngAmnVeV~Zu8lg__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
+#EXTINF:-1 tvg-id="" tvg-name="TV Chosun (SD)" tvg-language="Korean" tvg-logo="https://i.imgur.com/eekIYVn.jpg" tvg-country="KR" tvg-url="" group-title="Entertainment",TV Chosun (SD)
+http://live.cdn.tvchosun.com/live/_definst_/tvchosun3.stream/chunklist_w710452344.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Chosun (HD)" tvg-language="Korean" tvg-logo="https://i.imgur.com/eekIYVn.jpg" tvg-country="KR" tvg-url="" group-title="Entertainment",TV Chosun (HD)
+http://live.cdn.tvchosun.com/live/_definst_/tvchosun1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="YTN" tvg-language="Korean" tvg-logo="https://i.imgur.com/QVKzHm6.jpg" tvg-country="KR" tvg-url="http://tvn.tving.com"1 group-title="Entertainment",YTN
+https://r8---sn-n3cgv5qc5oq-nf0l.googlevideo.com/videoplayback?expire=1608140055&ei=t_DZX8_-C4bQ4wLTrZKgBg&ip=61.98.154.45&id=GoXPbGQl-uQ.1&itag=136&aitags=133%2C134%2C135%2C136%2C137%2C160&source=yt_live_broadcast&requiressl=yes&hcs=yes&mh=nb&mm=44%2C29&mn=sn-n3cgv5qc5oq-nf0l%2Csn-n3cgv5qc5oq-bh2ss&ms=lva%2Crdu&mv=m&mvi=8&pcm2cms=yes&pl=24&shardbypass=yes&initcwndbps=1085000&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&ns=EoZmwpTfOIHxb4Nj4wxkXZ4F&gir=yes&mt=1608118114&fvip=8&keepalive=yes&c=WEB_EMBEDDED_PLAYER&n=WsQWKQbVmEzLPA&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIgP9ByQNTPPBLSRHLsDZdDHGWPhBbbYw0fyeiVzuMfYQ8CIQCTaGIPKDZrJ6YiEOP7btGsCulePvs-HMp-ykxOrLx7JQ%3D%3D&lsparams=hcs%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cshardbypass%2Cinitcwndbps&lsig=AG3C_xAwRQIhAJansYcxHEBVk8UQOg0YyRPzBqRoRyrNM6gdq3oFubefAiB3TTuvKKU2DQJhFk5rG8O4MD34GEvV9naKtIK-i8g2Tw%3D%3D&alr=yes&cpn=-6iTeaUuCu7G7Fom&cver=20201215&sq=683719&rn=19&rbuf=19163
