@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Arirang TV" tvg-language="Korean" tvg-logo="https://i.imgur.com/E7DD1Fk.jpg" tvg-country="KR" tvg-url="https://www.arirang.com/" group-title="News",Arirang TV
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Arte HD" tvg-language="Korean" tvg-logo="" tvg-country="KR" tvg-url="" group-title="Art",Arte HD
+#EXTINF:-1 tvg-id="" tvg-name="Arte HD" tvg-language="Korean" tvg-logo="https://i.imgur.com/WVCwgqM.png" tvg-country="KR" tvg-url="http://www.arte.co.kr/" group-title="Art",Arte HD
 http://etomatomobile.hscdn.com/artemobile/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel A" tvg-language="Korean" tvg-logo="https://i.imgur.com/GIr5rvG.png" tvg-country="KR" tvg-url="http://www.ichannela.com" group-title="",Channel A
 http://channelalive.ktcdn.co.kr/chalivepc/_definst_/atv2/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MTI1MTY1NjMsInBhdGgiOiIvY2hhbGl2ZXBjL19kZWZpbnN0Xy9hdHYyIn0.P1qf_v4tPgBMh7YpyN_rhhqRazq7S0G1CgzDa-3ztfQ
@@ -29,7 +29,7 @@ http://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 http://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EBSe" tvg-language="Korean" tvg-logo="https://i.imgur.com/lPjkRuV.jpg" tvg-country="KR" tvg-url="http://www.ebs.co.kr/" group-title="Educational",EBSe
 http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/Ze57sqQ.png" tvg-country="KR" tvg-url="" group-title="Korean",EBSi
+#EXTINF:-1 tvg-id="" tvg-name="EBSi" tvg-language="Korean" tvg-logo="https://i.imgur.com/Ze57sqQ.png" tvg-country="KR" tvg-url="" group-title="Korean",EBSi
 http://ebsonair.ebs.co.kr:1935/plus1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Edaily TV" tvg-language="Korean" tvg-logo="https://i.imgur.com/UvRoc22.png" tvg-country="KR" tvg-url="" group-title="Korean",Edaily TV
 http://edaily.flive.skcdn.com:1935/high/livestream/playlist.m3u8
@@ -47,8 +47,10 @@ https://livem.gsshop.com/gsshop_hd/_definst_/gsshop_hd.stream/playlist.m3u8
 http://123.111.139.103:1935/live/hmall.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="JTBC" tvg-language="Korean" tvg-logo="https://i.imgur.com/oTAWtZ1.png" tvg-country="KR" tvg-url="http://onair.jtbc.joins.com/"1 group-title="Entertainment",JTBC
 https://jtbclive-cdn.jtbc.joins.com/mobileweb/D5AE02B12AAD36CBBFE70666F6274B001EB989CF5F1951A2313CBF66EEFC6700E5576B7847E1EF3C15516191FCB2CF90/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="JTBC" tvg-language="Korean" tvg-logo="https://i.imgur.com/oTAWtZ1.png" tvg-country="KR" tvg-url="http://onair.jtbc.joins.com/"1 group-title="Entertainment",JTBC HD
-https://jtbclive-cdn.jtbc.joins.com/mobileweb/D5AE02B12AAD36CBBFE70666F6274B006C4069451F5FBA895C6E21AB3BEFFC2EC9534D48E7936B813FCF07ED82437FC6/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JTBC HD" tvg-language="Korean" tvg-logo="https://i.imgur.com/oTAWtZ1.png" tvg-country="KR" tvg-url="http://onair.jtbc.joins.com/"1 group-title="Entertainment",JTBC HD
+https://jtbc-mcdn.tving.com/jtbc/live1500.smil/chunklist_b1628000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JTBC HD 2" tvg-language="Korean" tvg-logo="https://i.imgur.com/oTAWtZ1.png" tvg-country="KR" tvg-url="http://onair.jtbc.joins.com/"1 group-title="Entertainment",JTBC HD 2
+https://jtbc-mcdn.tving.com/jtbc/live1500.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Korea TV" tvg-language="Korean" tvg-logo="https://i.imgur.com/e6yeIHI.gif" tvg-country="KR" tvg-url="" group-title="",Korea TV
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="K+" tvg-language="Korean" tvg-logo="https://i.imgur.com/4DEUpdm.jpg" tvg-country="KR" tvg-url="" group-title="Entertainment",K+
@@ -56,9 +58,9 @@ http://210.210.155.35/uq2663/h/h08/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KBS LiveCam DokDo" tvg-language="Korean" tvg-logo="https://i.imgur.com/b7uMB9T.png" tvg-country="KR" tvg-url="http://www.kbs.co.kr" group-title="LiveCam",KBS LiveCam DokDo
 http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KBS1" tvg-language="Korean" tvg-logo="https://i.imgur.com/I4Z8R02.jpg" tvg-country="KR" tvg-url="http://www.kbs.co.kr"1 group-title="Entertainment",KBS1
-plugin://plugin.video.wavvem/?contentid=K01&mode=LIVE
+https://bit.ly/2PRmaYN
 #EXTINF:-1 tvg-id="" tvg-name="KBS2" tvg-language="Korean" tvg-logo="https://i.imgur.com/TPAaSO9.png" tvg-country="KR" tvg-url="http://www.kbs.co.kr"1 group-title="Entertainment",KBS2
-plugin://plugin.video.wavvem/?contentid=K02&mode=LIVE
+https://bit.ly/3l6iD4A
 #EXTINF:-1 tvg-id="" tvg-name="KBS News 24" tvg-language="Korean" tvg-logo="https://i.imgur.com/Hw1yHDU.png" tvg-country="KR" tvg-url="http://www.kbs.co.kr"1 group-title="Entertainment",KBS News 24
 http://news24.gscdn.kbs.co.kr/news24-b/news24-b_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL25ld3MyNC5nc2Nkbi5rYnMuY28ua3IvbmV3czI0LWIvbmV3czI0LWJfaGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYwNDM5NDg1M319fV19&Signature=LuGV6Spd5RSHj1uLv7g7Z7B5cmiDkY0CEmNHskigdQlZXDR59ALU~CXeo0efMH1hSua9Kh-JwWEoTDeNsc9RpKoiw0AZvSQQynmIt9yDq-NRdOR5skrdi4RvcynGoIv~5~h7umJPY6hCueF6rPoYNnfSbM-xgQtyYCXs6Pckf64MBhW68CSHaXKSSd8fWgUJgPdBaMPy6F6no0pd6pdkv4YWafny390XhuiQWpmE3fhjTP7WUlRVCz2-wQPHxEnnQ9JHoPA8JxPyv4x4IoK1WztwLHhernZKmvlQJOsNG6upW61li1bfsaWnUxtmoRkYuk1nW-nMypUsHql5u8F12w__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1 tvg-id="" tvg-name="KBS Drama" tvg-language="Korean" tvg-logo="https://i.imgur.com/q0iBpra.png" tvg-country="KR" tvg-url="http://www.kbs.co.kr"1 group-title="Entertainment",KBS Drama
@@ -89,6 +91,10 @@ rtmp://origin.flive.skcdn.com/mbn-auth1/1000k
 plugin://plugin.video.wavvem/?contentid=M01&mode=LIVE
 #EXTINF:-1 tvg-id="" tvg-name="MBC SD" tvg-language="Korean" tvg-logo="https://i.imgur.com/kTPYn2E.jpg" tvg-country="KR" tvg-url="http://www.imbc.com/"1 group-title="Entertainment",MBC SD
 http://ottlivesd.imbc.com/ottlive_sd/_definst_/ottlive_sd.stream/playlist.m3u8?_lsu_sa_=6AD1091153133E64344BA5943001EB43F52E3755400E824839B03Aa0260C3BB600a293B234F26B4970CD3281E6b67146936AB8967D43CF57A0E864DEA4FDAAA0DD463EFFC7EAAFE26909EFBE13604D87D828CA917B4199BD339908F4A1B3C76D2096501BE2313B83AD6F12BAD7439B6C6D14249AC2A2E2B4931833071546A18E
+#EXTINF:-1 tvg-id="" tvg-name="MNet" tvg-language="Korean" tvg-logo="" tvg-country="KR" tvg-url="" group-title="Entertainment",MNet
+https://mnet-mcdn.tving.com/mnet/live1500.smil/chunklist_b628000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MNet 2" tvg-language="Korean" tvg-logo="" tvg-country="KR" tvg-url="" group-title="Entertainment",MNet 2
+https://mnet-mcdn.tving.com/mnet/live1500.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTN" tvg-language="Korean" tvg-logo="https://i.imgur.com/QMDDHd1.gif" tvg-country="KR" tvg-url="" group-title="Financial",MTN
 https://cdnlive.mtn.co.kr/mtnlive/_definst_/720/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBS Korea Agricultural Broadcasting" tvg-language="Korean" tvg-logo="https://i.imgur.com/loWf3B5.jpg" tvg-country="KR" tvg-url="" group-title="",NBS Korea Agricultural Broadcasting
@@ -110,10 +116,14 @@ http://221.157.125.239:1935/live/psike/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-language="Korean" tvg-logo="https://i.imgur.com/wqlTcbI.png" tvg-country="KR" tvg-url="" group-title="Entertainment",TBS
 http://tbs.hscdn.com/tbstvweb/tbstv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="tvN" tvg-language="Korean" tvg-logo="https://i.imgur.com/QVKzHm6.jpg" tvg-country="KR" tvg-url="http://tvn.tving.com"1 group-title="Entertainment",tvN
-https://tvn-mcdn.tving.com/tvn/live1500.smil/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IioiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MDg0MzY1MTl9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=ejsDmq9TSYwXDGy7NaBct9nBcZM8yulVUBFQBSmeoZwrl5MjaxbG1m9KZYUAvskIGukaguaUkpoBCZHGPWArW6qEhcjv35vRB2mvZ6~KtrMrephfwKo8W5rnC1aECBit4gErKYZk5n~srZCfTLXF0EE6EgMuI7lh22HJQ8yKbG~DrcM-17ojV-UU6VgrxBgOInqVz8k9r8tVHPzhq98gPagcTpHSTCufZsGZ991K4X6STkTYxLIPCgOWmI8O1uTkymtojBiC2Ml29Ye~BKrR0qnzzscVIOSs6D~sfVsgA2HHxn-bNuBpxfA1bUkO8PWB3cyyULsXngAmnVeV~Zu8lg__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
-#EXTINF:-1 tvg-id="" tvg-name="TV Chosun (SD)" tvg-language="Korean" tvg-logo="https://i.imgur.com/eekIYVn.jpg" tvg-country="KR" tvg-url="" group-title="Entertainment",TV Chosun (SD)
-http://live.cdn.tvchosun.com/live/_definst_/tvchosun3.stream/chunklist_w710452344.m3u8
+https://tvn-mcdn.tving.com/tvn/live1500.smil/chunklist_b1628000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="tvN 2" tvg-language="Korean" tvg-logo="https://i.imgur.com/QVKzHm6.jpg" tvg-country="KR" tvg-url="http://tvn.tving.com"1 group-title="Entertainment",tvN 2
+https://tvn-mcdn.tving.com/tvn/live1500.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Chosun" tvg-language="Korean" tvg-logo="https://i.imgur.com/eekIYVn.jpg" tvg-country="KR" tvg-url="" group-title="Entertainment",TV Chosun
+https://chosun-mcdn.tving.com/chosun/live1500.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Chosun (HD)" tvg-language="Korean" tvg-logo="https://i.imgur.com/eekIYVn.jpg" tvg-country="KR" tvg-url="" group-title="Entertainment",TV Chosun (HD)
-http://live.cdn.tvchosun.com/live/_definst_/tvchosun1.stream/playlist.m3u8
+https://chosun-mcdn.tving.com/chosun/live1500.smil/chunklist_b1628000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="YTN" tvg-language="Korean" tvg-logo="https://i.imgur.com/QVKzHm6.jpg" tvg-country="KR" tvg-url="http://tvn.tving.com"1 group-title="Entertainment",YTN
-https://r8---sn-n3cgv5qc5oq-nf0l.googlevideo.com/videoplayback?expire=1608140055&ei=t_DZX8_-C4bQ4wLTrZKgBg&ip=61.98.154.45&id=GoXPbGQl-uQ.1&itag=136&aitags=133%2C134%2C135%2C136%2C137%2C160&source=yt_live_broadcast&requiressl=yes&hcs=yes&mh=nb&mm=44%2C29&mn=sn-n3cgv5qc5oq-nf0l%2Csn-n3cgv5qc5oq-bh2ss&ms=lva%2Crdu&mv=m&mvi=8&pcm2cms=yes&pl=24&shardbypass=yes&initcwndbps=1085000&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&ns=EoZmwpTfOIHxb4Nj4wxkXZ4F&gir=yes&mt=1608118114&fvip=8&keepalive=yes&c=WEB_EMBEDDED_PLAYER&n=WsQWKQbVmEzLPA&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIgP9ByQNTPPBLSRHLsDZdDHGWPhBbbYw0fyeiVzuMfYQ8CIQCTaGIPKDZrJ6YiEOP7btGsCulePvs-HMp-ykxOrLx7JQ%3D%3D&lsparams=hcs%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cshardbypass%2Cinitcwndbps&lsig=AG3C_xAwRQIhAJansYcxHEBVk8UQOg0YyRPzBqRoRyrNM6gdq3oFubefAiB3TTuvKKU2DQJhFk5rG8O4MD34GEvV9naKtIK-i8g2Tw%3D%3D&alr=yes&cpn=-6iTeaUuCu7G7Fom&cver=20201215&sq=683719&rn=19&rbuf=19163
+https://s3.play.kakao.com/873179579b985817/3jg8NlJhSL45UVlN3nRiZCyeAHrllTe45ODiCA93SF8$/index.m3u8?cdn=on&type=akamai_sigma&cdnurl=ak-sigma.play.kakao.com%2f873179579b985817%2f873179579b985817.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="YTN 2" tvg-language="Korean" tvg-logo="https://i.imgur.com/QVKzHm6.jpg" tvg-country="KR" tvg-url="http://tvn.tving.com"1 group-title="Entertainment",YTN 2
+https://s3.play.kakao.com/873179579b985817/3jg8NlJhSL45UVlN3nRiZCyeAHrllTe45ODiCA93SF8$/index.m3u8
