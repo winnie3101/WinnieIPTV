@@ -47,9 +47,9 @@ https://amarin-ks7jcc.cdn.byteark.com/live/playlist_720p/index.m3u8?x_ark_access
 https://p0.cdn.vet/live/ch26/i/ch26i.m3u8?sid=cjeNTBmYzVkYWU1ODdiZTVhYjU4NQOGQ4MjM0NTc1MjYwYWJj
 #EXTINF:-1 tvg-id="" tvg-name="CH7 HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/DcrHenu.png" tvg-country="TH" tvg-url="https://www.ch7.com" group-title="Entertainment",CH7 HD
 https://bcovlive-a.akamaihd.net/2d37038b355f4ea6a6b0d46993dc285c/ap-southeast-1/5282994675001/profile_3/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CH7 HD (2)" tvg-language="Thai" tvg-logo="https://i.imgur.com/DcrHenu.png" tvg-country="TH" tvg-url="https://www.ch7.com" group-title="Entertainment",CH7 HD (2)
-https://bcovlive-a.akamaihd.net/2d37038b355f4ea6a6b0d46993dc285c/ap-southeast-1/5282994675001/profile_2/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PPTV HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/4vD065Z.png" tvg-country="TH" tvg-url="https://www.pptvhd36.com" group-title="Entertainment",PPTV HD
-https://pptv36-1tsjfj.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-963&x_ark_auth_type=ark-v2&x_ark_expires=1611400802&x_ark_path_prefix=%2Flive%2F&x_ark_signature=07Ycsr2X9MASBSNBQ89rcA
+http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/playist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PPTV HD (2)" tvg-language="Thai" tvg-logo="https://i.imgur.com/4vD065Z.png" tvg-country="TH" tvg-url="https://www.pptvhd36.com" group-title="Entertainment",PPTV HD (2)
-https://p0.cdn.vet/live/ch25/i/ch25i.m3u8?sid=cjeNWRjNzVlNzIxYTg4NWM2MzYzNQNjA3YWZlMDRmYWFkZTVi
+https://live-cdn.allhilight.com/abr_live/pptv/live/pptv_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PPTV HD (720p ONLY)" tvg-language="Thai" tvg-logo="https://i.imgur.com/4vD065Z.png" tvg-country="TH" tvg-url="https://www.pptvhd36.com" group-title="Entertainment",PPTV HD (720p ONLY)
+http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/chunklist_w1085001132_b4692000_slThai.m3u8
