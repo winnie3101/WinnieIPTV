@@ -10,17 +10,17 @@ https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TPTV" tvg-language="Thai" tvg-logo="https://i.imgur.com/Z2fVleU.jpg" tvg-country="TH" tvg-url="https://www.parliament.go.th" group-title="News",TPTV
 http://49.231.66.85:1935/live/tptv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNN16" tvg-language="Thai" tvg-logo="https://i.imgur.com/wtz1CDm.jpg" tvg-country="TH" tvg-url="https://www.tnnthailand.com" group-title="News",TNN16
-https://cdnlive.goprimetime.info/feed/chtnn/index.m3u8
+https://edge4.thaicom.io/v3/td/TNN24/chunklist_live_480p_SWljk.m3u8?uuid=b5d2650f-9b13-414e-ae5f-fcb32d57acc1
 #EXTINF:-1 tvg-id="" tvg-name="JKN 18" tvg-language="Thai" tvg-logo="https://i.imgur.com/rS73Ora.jpg" tvg-country="TH" tvg-url="https://www.newtv.co.th" group-title="Documentary",JKN 18
-https://cdnlive.goprimetime.info/feed/newtv/index.m3u8
+http://live2.dootvde.com/live/50011_news_tv.stream.smil/chunklist_w1876702002_b4692000_slThai.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nation TV" tvg-language="Thai" tvg-logo="https://i.imgur.com/GwkjNsF.png" tvg-country="TH" tvg-url="https://www.nationtv.tv" group-title="News",Nation TV
-https://cdnlive.goprimetime.info/feed/chnation/index.m3u8
+https://edge6.thaicom.io/v3/td/Nation_TV/chunklist_live_480p_SElK5.m3u8?uuid=b5d2650f-9b13-414e-ae5f-fcb32d57acc1
 #EXTINF:-1 tvg-id="" tvg-name="Workpoint TV (HD)" tvg-language="Thai" tvg-logo="https://i.imgur.com/xZFOzHr.jpg" tvg-country="TH" tvg-url="https://www.workpointtv.com" group-title="Entertainment",Workpoint TV (HD)
-https://cdnlive.goprimetime.info/feed/chworkpoint/index.m3u8
+https://edge6.thaicom.io/v3/td/Workpoint/chunklist_live_480p_SElLf.m3u8?uuid=b5d2650f-9b13-414e-ae5f-fcb32d57acc1
 #EXTINF:-1 tvg-id="" tvg-name="True4U" tvg-language="Thai" tvg-logo="https://i.imgur.com/owt9DXr.jpg" tvg-country="TH" tvg-url="http://www.true4u.com" group-title="Entertainment",True4U
-https://cdnlive.goprimetime.info/feed/chtrue4u/index.m3u8
+https://edge2.thaicom.io/v3/td/True4U/chunklist_live_480p_SWc21.m3u8?uuid=b5d2650f-9b13-414e-ae5f-fcb32d57acc1
 #EXTINF:-1 tvg-id="" tvg-name="GMM25" tvg-language="Thai" tvg-logo="https://i.imgur.com/mENgVzV.png" tvg-country="TH" tvg-url="https://www.gmm25.com" group-title="Entertainment",GMM25
-https://cdnlive.goprimetime.info/feed/chgmm/index.m3u8
+https://edge6.thaicom.io/v3/td/GMM25/chunklist_live_480p_SElMD.m3u8?uuid=b5d2650f-9b13-414e-ae5f-fcb32d57acc1
 #EXTINF:-1 tvg-id="" tvg-name="CH8" tvg-language="Thai" tvg-logo="https://i.imgur.com/P6lfWBu.png" tvg-country="TH" tvg-url="https://www.thaich8.com" group-title="",CH8
 https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MONO29 (Thai)" tvg-language="Thai" tvg-logo="https://i.imgur.com/zlYqZpe.png" tvg-country="TH" tvg-url="https://mono29.com/" group-title="Entertainment",MONO29 (Thai)
@@ -28,22 +28,22 @@ https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunkl
 #EXTINF:-1 tvg-id="" tvg-name="MONO29 (English)" tvg-language="English" tvg-logo="https://i.imgur.com/zlYqZpe.png" tvg-country="TH" tvg-url="https://mono29.com/" group-title="Entertainment",MONO29 (English)
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080EN.stream/chunklist_w1359105390.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MCOT HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/MsssgaV.jpg" tvg-country="TH" tvg-url="https://www.mcot.net/" group-title="",MCOT HD
-https://cdnlive.goprimetime.info/feed/chmcothd/index.m3u8
+https://edge3.thaicom.io/v3/tc/MCOT_HD/chunklist_live_480p_SWT2g.m3u8?uuid=b5d2650f-9b13-414e-ae5f-fcb32d57acc1
 #EXTINF:-1 tvg-id="" tvg-name="MCOT HD 2" tvg-language="Thai" tvg-logo="https://i.imgur.com/MsssgaV.jpg" tvg-country="TH" tvg-url="https://www.mcot.net/" group-title="",MCOT HD 2
 http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w534518664_b3000000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ONE HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/FYQetzr.png" tvg-country="TH" tvg-url="https://www.one31.net/" group-title="",ONE HD
-https://cdnlive.goprimetime.info/feed/chonehd/index.m3u8
+https://edge1.thaicom.io/v3/tc/ONE_HD/chunklist_live_480p_SWBqv.m3u8?uuid=b5d2650f-9b13-414e-ae5f-fcb32d57acc1
 #EXTINF:-1 tvg-id="" tvg-name="Thairath HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/ozcLGD7.jpg" tvg-country="TH" tvg-url="https://www.thairath.co.th/" group-title="",Thairath HD
 https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel 3 HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/vzdU2xD.png" tvg-country="TH" tvg-url="https://www.ch3thailand.com" group-title="Entertainment",Channel 3 HD
-https://cdnlive.goprimetime.info/feed/ch3hd/index.m3u8
+https://edge3.thaicom.io/v3/tc/3HD/chunklist_live_480p_SWTbD.m3u8?uuid=b5d2650f-9b13-414e-ae5f-fcb32d57acc1
+#EXTINF:-1 tvg-id="" tvg-name="Channel 3 HD (2)" tvg-language="Thai" tvg-logo="https://i.imgur.com/vzdU2xD.png" tvg-country="TH" tvg-url="https://www.ch3thailand.com" group-title="Entertainment",Channel 3 HD (2)
+http://live2.dootvde.com/live/50001_ch3.stream.smil/chunklist_w2106403896_b4692000_slThai.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Amarin TV HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/5q48OBS.png" tvg-country="TH" tvg-url="https://www.amarintv.com" group-title="Entertainment",Amarin TV HD
-https://cdnlive.goprimetime.info/feed/chamarin/index.m3u8
+http://live2.dootvde.com/live/50025_amarin_tv_hd.stream.smil/chunklist_w20592718_b4692000_slThai.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CH7 HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/DcrHenu.png" tvg-country="TH" tvg-url="https://www.ch7.com" group-title="Entertainment",CH7 HD
+https://bcovlive-a.akamaihd.net/efdfa4b2dfc54cb38fdb120d52973e95/ap-southeast-1/5282994675001/profile_5/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CH7 HD (SD)" tvg-language="Thai" tvg-logo="https://i.imgur.com/DcrHenu.png" tvg-country="TH" tvg-url="https://www.ch7.com" group-title="Entertainment",CH7 HD (SD)
 https://bcovlive-a.akamaihd.net/2d37038b355f4ea6a6b0d46993dc285c/ap-southeast-1/5282994675001/profile_3/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CH7 HD 2" tvg-language="Thai" tvg-logo="https://i.imgur.com/DcrHenu.png" tvg-country="TH" tvg-url="https://www.ch7.com" group-title="Entertainment",CH7 HD 2
-https://cdnlive.goprimetime.info/feed/ch7hd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PPTV HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/4vD065Z.png" tvg-country="TH" tvg-url="https://www.pptvhd36.com" group-title="Entertainment",PPTV HD
-https://cdnlive.goprimetime.info/feed/chpptvhd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PPTV HD (720p ONLY)" tvg-language="Thai" tvg-logo="https://i.imgur.com/4vD065Z.png" tvg-country="TH" tvg-url="https://www.pptvhd36.com" group-title="Entertainment",PPTV HD (720p ONLY)
 http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/chunklist_w1085001132_b4692000_slThai.m3u8
