@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="ALL THE K-POP" tvg-language="Korean" tvg-logo="https://i.imgur.com/HLynLZo.jpg" tvg-country="KR" tvg-url="" group-title="Entertainment",ALL THE K-POP
-
 #EXTINF:-1 tvg-id="" tvg-name="ALL THE K-POP (Youtube)" tvg-language="Korean" tvg-logo="https://i.imgur.com/HLynLZo.jpg" tvg-country="KR" tvg-url="" group-title="Entertainment",ALL THE K-POP (Youtube)
 https://www.youtube.com/watch?v=8zUdwHwuwhQ
 #EXTINF:-1 tvg-id="" tvg-name="Arirang TV" tvg-language="Korean" tvg-logo="https://i.imgur.com/O1Yz9Lp.jpg" tvg-country="KR" tvg-url="https://www.arirang.com/" group-title="Cultures",Arirang TV
