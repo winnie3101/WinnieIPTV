@@ -48,7 +48,7 @@ http://edaily.flive.skcdn.com:1935/high/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gayo TV" tvg-language="Korean" tvg-logo="https://i.imgur.com/CJxrnvV.jpg" tvg-country="KR" tvg-url="http://gayotv.co.kr/" group-title="Music",Gayo TV
 http://gayotv.net:1935/live/gayotv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gayo TV (South Korea IP ONLY)" tvg-language="Korean" tvg-logo="https://i.imgur.com/CJxrnvV.jpg" tvg-country="KR" tvg-url="http://gayotv.co.kr/" group-title="Music",Gayo TV (South Korea IP ONLY)
-http://1.214.67.22/vod/79401.m3u8?SessionID=1cf7cb3f-a19a-465b-bfad-dff4fde44e99&VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1080P;WIFI
+http://1.214.67.210/vod/79401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
 #EXTINF:-1 tvg-id="" tvg-name="Gugak TV" tvg-language="Korean" tvg-logo="https://i.imgur.com/5Zh9wBR.jpg" tvg-country="KR" tvg-url="" group-title="Cultures",Gugak TV
 http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gugbang TV" tvg-language="Korean" tvg-logo="https://i.imgur.com/xD5JVNo.png" tvg-country="KR" tvg-url="" group-title="Korean",Gugbang TV
@@ -123,6 +123,8 @@ http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 http://211.220.195.200:1935/live/mp4:KnnTV.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Korea Election TV (한국선거방송)" tvg-language="Korean" tvg-logo="https://i.imgur.com/N7vrm5I.png" tvg-country="KR" tvg-url="https://nec.go.kr/site/etv/main.do" group-title="Korean",Korea Election TV (한국선거방송)
 http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="K Shopping" tvg-language="Korean" tvg-logo="https://i.imgur.com/9zBHsWK.jpg" tvg-country="KR" tvg-url="" group-title="Shopping",K Shopping
+https://fhs8036.bd-61.ktcdn.co.kr/klive/_definst_/smil:klive.smil/chunklist_w408317429_b6128000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="K STAR (South Korea IP ONLY)" tvg-language="Korean" tvg-logo="https://i.imgur.com/Q2F6uES.jpg" tvg-country="KR" tvg-url="http://kstar.ihq.co.kr"1 group-title="Entertainment",K STAR (South Korea IP ONLY)
 http://1.214.67.12:80/66201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1080P;WIFI
 #EXTINF:-1 tvg-id="" tvg-name="Lifetime (South Korea IP ONLY)" tvg-language="Korean" tvg-logo="https://i.imgur.com/PaQ7vhO.png" tvg-country="KR" tvg-url=""1 group-title="Entertainment",Lifetime (South Korea IP ONLY)
@@ -191,10 +193,10 @@ http://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/ch
 https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SBS Star" tvg-language="Korean" tvg-logo="https://i.imgur.com/S1YWrNd.jpg" tvg-country="KR" tvg-url="" group-title="",SBS Star
 https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Shopping NT" tvg-language="Korean" tvg-logo="https://i.imgur.com/QQSxQsT.png" tvg-country="KR" tvg-url="" group-title="Shopping",Shopping NT
+https://live.shoppingntmall.com/live/10011.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SK stoa" tvg-language="Korean" tvg-logo="https://i.imgur.com/dhuDviW.png" tvg-country="KR" tvg-url="https://www.skstoa.com/" group-title="Shopping",SK stoa
 http://cast.bshopping.co.kr:8080/live/BSHOPPING.daml/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Yes TV(소상공인방송)" tvg-language="Korean" tvg-logo="https://i.imgur.com/O2krQuP.png" tvg-country="KR" tvg-url="https://yestv.or.kr/" group-title="Lifestyle",Small Business Broadcasting (소상공인방송)
-http://139.150.248.29:1935/smartlive/558/91258ac21591769e21f41b96f26d883e/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPOTV (540p)" tvg-language="Korean" tvg-logo="https://i.imgur.com/BRZ8rmA.png" tvg-country="KR" tvg-url="" group-title="Sports",SPOTV (540p)
 http://51.81.66.195:1935/krtv/spotv_540/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPOTV (South Korea IP ONLY)" tvg-language="Korean" tvg-logo="https://i.imgur.com/BRZ8rmA.png" tvg-country="KR" tvg-url="" group-title="Sports",SPOTV (South Korea IP ONLY)
@@ -229,6 +231,8 @@ http://1.209.146.20:80/746H.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-00002018
 http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Welfare TV (복지TV)" tvg-language="Korean" tvg-logo="https://i.imgur.com/tTBWX4d.png" tvg-country="KR" tvg-url="http://www.iwbc.co.kr/" group-title="Lifestyle",Welfare TV (복지TV)
 http://139.150.248.29/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Yes TV(소상공인방송)" tvg-language="Korean" tvg-logo="https://i.imgur.com/O2krQuP.png" tvg-country="KR" tvg-url="https://yestv.or.kr/" group-title="Lifestyle",Small Business Broadcasting (소상공인방송)
+http://139.150.248.29:1935/smartlive/558/91258ac21591769e21f41b96f26d883e/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Yonhap News TV" tvg-language="Korean" tvg-logo="https://i.imgur.com/k1QtdEa.png" tvg-country="KR" tvg-url=""1 group-title="News",Yonhap News TV
 https://p2xu7ctvpt.freestream24.com/live2/gab6xnpt41/playlist.m3u8?mgMfVFxtfXI0mhiUrLWrvX76fTdrbuMM4P_1QUJfALc_ozNxeGcLzWzcccQZWhG78JHdCq-Zj1Ag5T_10RkJF1EgOrozNH7drNCsN98wjbY
 #EXTINF:-1 tvg-id="" tvg-name="Yonhap News TV (Youtube)" tvg-language="Korean" tvg-logo="https://i.imgur.com/k1QtdEa.png" tvg-country="KR" tvg-url=""1 group-title="News",Yonhap News TV (Youtube)
