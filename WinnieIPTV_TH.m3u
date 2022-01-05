@@ -14,35 +14,37 @@ https://tnnthailand-8zdgwf.cdn.byteark.com/live/pl_720p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="JKN 18" tvg-language="Thai" tvg-logo="https://i.imgur.com/rS73Ora.jpg" tvg-country="TH" tvg-url="https://www.newtv.co.th" group-title="Documentary",JKN 18
 https://5f27aa1f6ef91.streamlock.net/jkncnbc/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nation TV" tvg-language="Thai" tvg-logo="https://i.imgur.com/GwkjNsF.png" tvg-country="TH" tvg-url="https://www.nationtv.tv" group-title="News",Nation TV
-https://edge6.thaicom.io/v3/td/Nation_TV/chunklist_live_480p_SElK5.m3u8?uuid=b5d2650f-9b13-414e-ae5f-fcb32d57acc1
-#EXTINF:-1 tvg-id="" tvg-name="Workpoint TV (HD)" tvg-language="Thai" tvg-logo="https://i.imgur.com/xZFOzHr.jpg" tvg-country="TH" tvg-url="https://www.workpointtv.com" group-title="Entertainment",Workpoint TV (HD)
-#EXT-X-KEY:METHOD=AES-128,URI="https://kd.stm.trueid.net/rotate_decryptor.php?token=b0dfdc02f2efe85d768fa01258b25537a724a41708baf379eb0da8d9e2ec9d7f&wowzasessionid=1244792576&appid=trueid&type=live&visitor=web&uid=27529186&did=MTQyOTI0OTQ5NS4xNTkwMTMzNjQx&mpass=KEs2Tq13STw3rHRw3ngmMzK3tJZ_sldJeWIi65Y3vN15tY_HfIKYIUrtVCY4xB9xg694ljx5N5Cvv_k5MxHttiCTqAjsELUfU1LLA47NHQk6OvZqC-no_lMtOXfFhQDlOrg&sid=498f3c55a8&rt=1635221420&tk=dXDm3aPgNmeND1UyyJJDmGFAs1NF5kNegTB4PyJNwe4",KEYFORMATVERSIONS="1"
-https://cdn760.stm.trueid.net/live3/d83_w_auto_tidapp.smil/chunklist_w1244792576_b2077081_vo_sltha_t64TWFpbg==.m3u8?appid=trueid&type=live&visitor=web&uid=27529186&did=MTQyOTI0OTQ5NS4xNTkwMTMzNjQx&mpass=KEs2Tq13STw3rHRw3ngmMzK3tJZ_sldJeWIi65Y3vN15tY_HfIKYIUrtVCY4xB9xg694ljx5N5Cvv_k5MxHttiCTqAjsELUfU1LLA47NHQk6OvZqC-no_lMtOXfFhQDlOrg&sid=498f3c55a8&rt=1635221420&tk=dXDm3aPgNmeND1UyyJJDmGFAs1NF5kNegTB4PyJNwe4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/digitaltv/nationtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjIgMzo0ODoyOCBBTSZoYXNoX3ZhbHVlPTlzVlc0OXlMU09pcTVxTldYMTBIbEE9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTINF:-1 tvg-id="" tvg-name="Workpoint TV" tvg-language="Thai" tvg-logo="https://i.imgur.com/xZFOzHr.jpg" tvg-country="TH" tvg-url="https://www.workpointtv.com" group-title="Entertainment",Workpoint TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/digitaltv/workpoint/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjIgMzo1MDowOCBBTSZoYXNoX3ZhbHVlPVAzRkY4M3pDdkg5U1VuUEkvNGRHUnc9PSZ2YWxpZG1pbnV0ZXM9MjA=
 #EXTINF:-1 tvg-id="" tvg-name="True4U" tvg-language="Thai" tvg-logo="https://i.imgur.com/owt9DXr.jpg" tvg-country="TH" tvg-url="http://www.true4u.com" group-title="Entertainment",True4U
-https://edge2.thaicom.io/v3/td/True4U/chunklist_live_480p_SWc21.m3u8?uuid=b5d2650f-9b13-414e-ae5f-fcb32d57acc1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/digitaltv/true4u/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjIgMzo1MToxMiBBTSZoYXNoX3ZhbHVlPVNMTnhvVmxNRGdsakpQMmtCWnVyc3c9PSZ2YWxpZG1pbnV0ZXM9MjA=
 #EXTINF:-1 tvg-id="" tvg-name="GMM25" tvg-language="Thai" tvg-logo="https://i.imgur.com/mENgVzV.png" tvg-country="TH" tvg-url="https://www.gmm25.com" group-title="Entertainment",GMM25
-https://edge6.thaicom.io/v3/td/GMM25/chunklist_live_480p_SElMD.m3u8?uuid=b5d2650f-9b13-414e-ae5f-fcb32d57acc1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/digitaltv/gmm25/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjIgMzo1MTo1OSBBTSZoYXNoX3ZhbHVlPWNMM1cyS0VpOFJyKzJRcVNaUUJweUE9PSZ2YWxpZG1pbnV0ZXM9MjA=
 #EXTINF:-1 tvg-id="" tvg-name="CH8" tvg-language="Thai" tvg-logo="https://i.imgur.com/P6lfWBu.png" tvg-country="TH" tvg-url="https://www.thaich8.com" group-title="",CH8
 https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MONO29 (Thai)" tvg-language="Thai" tvg-logo="https://i.imgur.com/zlYqZpe.png" tvg-country="TH" tvg-url="https://mono29.com/" group-title="Entertainment",MONO29 (Thai)
-https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/playlist.m3u8
+https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_720P/mono29hls_720TH.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MONO29 (English)" tvg-language="English" tvg-logo="https://i.imgur.com/zlYqZpe.png" tvg-country="TH" tvg-url="https://mono29.com/" group-title="Entertainment",MONO29 (English)
-https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080EN.stream/playlist.m3u8
+https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_720P/mono29hls_720EN.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MCOT HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/MsssgaV.jpg" tvg-country="TH" tvg-url="https://www.mcot.net/" group-title="",MCOT HD
-https://edge3.thaicom.io/v3/tc/MCOT_HD/chunklist_live_480p_SWT2g.m3u8?uuid=b5d2650f-9b13-414e-ae5f-fcb32d57acc1
-#EXTINF:-1 tvg-id="" tvg-name="MCOT HD 2" tvg-language="Thai" tvg-logo="https://i.imgur.com/MsssgaV.jpg" tvg-country="TH" tvg-url="https://www.mcot.net/" group-title="",MCOT HD 2
-http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w534518664_b3000000.m3u8
+http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w389772420_b2000000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ONE HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/FYQetzr.png" tvg-country="TH" tvg-url="https://www.one31.net/" group-title="",ONE HD
 https://one31-rlbwkq.cdn.byteark.com/live/playlist_720p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Thairath HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/ozcLGD7.jpg" tvg-country="TH" tvg-url="https://www.thairath.co.th/" group-title="",Thairath HD
 https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel 3 HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/vzdU2xD.png" tvg-country="TH" tvg-url="https://www.ch3thailand.com" group-title="Entertainment",Channel 3 HD
-https://edge3.thaicom.io/v3/tc/3HD/chunklist_live_480p_SWTbD.m3u8?uuid=b5d2650f-9b13-414e-ae5f-fcb32d57acc1
-#EXTINF:-1 tvg-id="" tvg-name="Channel 3 HD (2)" tvg-language="Thai" tvg-logo="https://i.imgur.com/vzdU2xD.png" tvg-country="TH" tvg-url="https://www.ch3thailand.com" group-title="Entertainment",Channel 3 HD (2)
-http://live2.dootvde.com/live/50001_ch3.stream.smil/chunklist_w2106403896_b4692000_slThai.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/digitaltv/ch3hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjIgMzozNDo0NyBBTSZoYXNoX3ZhbHVlPUhGMVVkWTQ4NWp5aW45TnNMKzdMWFE9PSZ2YWxpZG1pbnV0ZXM9MjA=
 #EXTINF:-1 tvg-id="" tvg-name="Amarin TV HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/5q48OBS.png" tvg-country="TH" tvg-url="https://www.amarintv.com" group-title="Entertainment",Amarin TV HD
-http://live2.dootvde.com/live/50025_amarin_tv_hd.stream.smil/chunklist_w20592718_b4692000_slThai.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/digitaltv/amarintv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjIgMzozNTozOSBBTSZoYXNoX3ZhbHVlPWpIS2xpbjNMQVBDSHB3ODkyOXRtZ0E9PSZ2YWxpZG1pbnV0ZXM9MjA=
 #EXTINF:-1 tvg-id="" tvg-name="CH7 HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/DcrHenu.png" tvg-country="TH" tvg-url="https://www.ch7.com" group-title="Entertainment",CH7 HD
 https://edge161.bugaboo.tv/liveedgech7_partner/smil:auto.smil/chunklist_b8192000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PPTV HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/4vD065Z.png" tvg-country="TH" tvg-url="https://www.pptvhd36.com" group-title="Entertainment",PPTV HD
-http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/chunklist_w1085001132_b4692000_slThai.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/digitaltv/pptv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjIgMzozMDozNyBBTSZoYXNoX3ZhbHVlPXUxbFJGbUFRbmFGdGNGWWYrUzJjL1E9PSZ2YWxpZG1pbnV0ZXM9MjA=
