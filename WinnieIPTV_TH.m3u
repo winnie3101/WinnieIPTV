@@ -14,17 +14,17 @@ https://tnnthailand-8zdgwf.cdn.byteark.com/live/pl_720p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="JKN 18" tvg-language="Thai" tvg-logo="https://i.imgur.com/rS73Ora.jpg" tvg-country="TH" tvg-url="https://www.newtv.co.th" group-title="Documentary",JKN 18
 https://5f27aa1f6ef91.streamlock.net/jkncnbc/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nation TV" tvg-language="Thai" tvg-logo="https://i.imgur.com/GwkjNsF.png" tvg-country="TH" tvg-url="https://www.nationtv.tv" group-title="News",Nation TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/digitaltv/nationtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjIgMzo0ODoyOCBBTSZoYXNoX3ZhbHVlPTlzVlc0OXlMU09pcTVxTldYMTBIbEE9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTVLCOPT:http-referrer=https://www.livestream88.com/digital/nation/
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_digitaltv/nation/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Workpoint TV" tvg-language="Thai" tvg-logo="https://i.imgur.com/xZFOzHr.jpg" tvg-country="TH" tvg-url="https://www.workpointtv.com" group-title="Entertainment",Workpoint TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/digitaltv/workpoint/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjIgMzo1MDowOCBBTSZoYXNoX3ZhbHVlPVAzRkY4M3pDdkg5U1VuUEkvNGRHUnc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTVLCOPT:http-referrer=https://www.livestream88.com/digital/workpoint/
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_digitaltv/workpoint/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="True4U" tvg-language="Thai" tvg-logo="https://i.imgur.com/owt9DXr.jpg" tvg-country="TH" tvg-url="http://www.true4u.com" group-title="Entertainment",True4U
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/digitaltv/true4u/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjIgMzo1MToxMiBBTSZoYXNoX3ZhbHVlPVNMTnhvVmxNRGdsakpQMmtCWnVyc3c9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTVLCOPT:http-referrer=https://www.livestream88.com/digital/true4u/
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_digitaltv/true4u/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GMM25" tvg-language="Thai" tvg-logo="https://i.imgur.com/mENgVzV.png" tvg-country="TH" tvg-url="https://www.gmm25.com" group-title="Entertainment",GMM25
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/digitaltv/gmm25/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjIgMzo1MTo1OSBBTSZoYXNoX3ZhbHVlPWNMM1cyS0VpOFJyKzJRcVNaUUJweUE9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTVLCOPT:http-referrer=https://www.livestream88.com/digital/gmm25/
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_digitaltv/gmm25/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CH8" tvg-language="Thai" tvg-logo="https://i.imgur.com/P6lfWBu.png" tvg-country="TH" tvg-url="https://www.thaich8.com" group-title="",CH8
 https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MONO29 (Thai)" tvg-language="Thai" tvg-logo="https://i.imgur.com/zlYqZpe.png" tvg-country="TH" tvg-url="https://mono29.com/" group-title="Entertainment",MONO29 (Thai)
@@ -38,13 +38,13 @@ https://one31-rlbwkq.cdn.byteark.com/live/playlist_720p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Thairath HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/ozcLGD7.jpg" tvg-country="TH" tvg-url="https://www.thairath.co.th/" group-title="",Thairath HD
 https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel 3 HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/vzdU2xD.png" tvg-country="TH" tvg-url="https://www.ch3thailand.com" group-title="Entertainment",Channel 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/digitaltv/ch3hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjIgMzozNDo0NyBBTSZoYXNoX3ZhbHVlPUhGMVVkWTQ4NWp5aW45TnNMKzdMWFE9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTVLCOPT:http-referrer=https://www.livestream88.com/digital/ch3/
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_digitaltv/3hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Amarin TV HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/5q48OBS.png" tvg-country="TH" tvg-url="https://www.amarintv.com" group-title="Entertainment",Amarin TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/digitaltv/amarintv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjIgMzozNTozOSBBTSZoYXNoX3ZhbHVlPWpIS2xpbjNMQVBDSHB3ODkyOXRtZ0E9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTVLCOPT:http-referrer=https://www.livestream88.com/digital/amarin-tv-hd/
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_digitaltv/amarin/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CH7 HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/DcrHenu.png" tvg-country="TH" tvg-url="https://www.ch7.com" group-title="Entertainment",CH7 HD
 https://edge161.bugaboo.tv/liveedgech7_partner/smil:auto.smil/chunklist_b8192000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PPTV HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/4vD065Z.png" tvg-country="TH" tvg-url="https://www.pptvhd36.com" group-title="Entertainment",PPTV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/digitaltv/pptv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjIgMzozMDozNyBBTSZoYXNoX3ZhbHVlPXUxbFJGbUFRbmFGdGNGWWYrUzJjL1E9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTVLCOPT:http-referrer=https://www.livestream88.com/digital/pptv-hd/
+https://nj2yx-gbi9-cdf5.googlecdncontent.com/livestream88_digitaltv/pptv/playlist.m3u8
