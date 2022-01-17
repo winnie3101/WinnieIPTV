@@ -248,6 +248,8 @@ http://139.150.248.29/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3
 http://139.150.248.29:1935/smartlive/558/91258ac21591769e21f41b96f26d883e/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Yonhap News TV" tvg-language="Korean" tvg-logo="https://i.imgur.com/k1QtdEa.png" tvg-country="KR" tvg-url=""1 group-title="News",Yonhap News TV
 https://ducg38fv680xm.cloudfront.net/yeonhap_3M.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Yonhap News TV (HEVC) (Lite)" tvg-language="Korean" tvg-logo="https://i.imgur.com/k1QtdEa.png" tvg-country="KR" tvg-url=""1 group-title="News",Yonhap News TV (HEVC) (Lite)
+https://ducg38fv680xm.cloudfront.net/yeonhap-hevc_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Yonhap News TV (Youtube)" tvg-language="Korean" tvg-logo="https://i.imgur.com/k1QtdEa.png" tvg-country="KR" tvg-url=""1 group-title="News",Yonhap News TV (Youtube)
 https://www.youtube.com/channel/UCTHCOPwqNfZ0uiKOvFyhGwg/live
 #EXTINF:-1 tvg-id="" tvg-name="Yonhap News TV (South Korea IP ONLY)" tvg-language="Korean" tvg-logo="https://i.imgur.com/k1QtdEa.png" tvg-country="KR" tvg-url=""1 group-title="News",Yonhap News TV (South Korea IP ONLY)
