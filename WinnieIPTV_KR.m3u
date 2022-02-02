@@ -7,11 +7,11 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklis
 https://www.youtube.com/user/TheArteTV/live
 #EXTINF:-1 tvg-id="" tvg-name="AsiaN (South Korea IP ONLY)" tvg-language="Korean" tvg-logo="https://i.imgur.com/eYIIp6t.png" tvg-country="KR" tvg-url="" group-title="Entertainment",AsiaN (South Korea IP ONLY)
 http://1.214.67.12:80/65801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1080P;WIFI
-#EXTINF:-1 tvg-id="" tvg-name="Billiards TV  (South Korea IP ONLY)" tvg-language="Korean" tvg-logo="https://i.imgur.com/tXjSynh.gif" tvg-country="KR" tvg-url="" group-title="Sport",Billiards TV  (South Korea IP ONLY)
+#EXTINF:-1 tvg-id="" tvg-name="Billiards TV (South Korea IP ONLY)" tvg-language="Korean" tvg-logo="https://i.imgur.com/tXjSynh.gif" tvg-country="KR" tvg-url="" group-title="Sport",Billiards TV (South Korea IP ONLY)
 http://1.214.67.12:80/66801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1080P;WIFI
 #EXTINF:-1 tvg-id="" tvg-name="BBS Buddhist Broadcasting" tvg-language="Korean" tvg-logo="https://i.imgur.com/N4OWFzx.jpg" tvg-country="KR" tvg-url="" group-title="Religious",BBS Buddhist Broadcasting
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Brain TV (브레인TV)" tvg-language="Korean" tvg-logo="https://i.imgur.com/SAlt9hi.png" tvg-country="KR" tvg-url="https://www.braintv.co.kr/web_basic/" group-title="Korean",Brain TV (브레인TV)
+#EXTINF:-1 tvg-id="" tvg-name="Brain TV (브레인TV) (South Korea IP ONLY)" tvg-language="Korean" tvg-logo="https://i.imgur.com/SAlt9hi.png" tvg-country="KR" tvg-url="https://www.braintv.co.kr/web_basic/" group-title="Korean",Brain TV (브레인TV) (South Korea IP ONLY)
 http://1.214.67.38/vod/70701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 tvg-id="" tvg-name="CBS" tvg-language="Korean" tvg-logo="https://i.imgur.com/Iy0yBaM.jpg" tvg-country="KR" tvg-url="" group-title="Religious",CBS
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
@@ -121,6 +121,8 @@ https://bit.ly/3lfpYyX
 https://bit.ly/38CjzbW
 #EXTINF:-1 tvg-id="" tvg-name="KBS World" tvg-language="Korean" tvg-logo="https://i.imgur.com/ctDyFhV.png" tvg-country="KR" tvg-url="http://kbsworld.kbs.co.kr"1 group-title="Entertainment",KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KBS World (KOR TV) tvg-language="Korean" tvg-logo="https://i.imgur.com/ctDyFhV.png" tvg-country="KR" tvg-url="http://kbsworld.kbs.co.kr"1 group-title="Entertainment",KBS World (KOR TV)
+https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KBS World (Mirror)" tvg-language="Korean" tvg-logo="https://i.imgur.com/ctDyFhV.png" tvg-country="KR" tvg-url="http://kbsworld.kbs.co.kr"1 group-title="Entertainment",KBS World (Mirror)
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KNN" tvg-language="Korean" tvg-logo="https://i.imgur.com/iQUnf5E.jpg" tvg-country="KR" tvg-url="http://www.knn.co.kr/"1 group-title="Regional",KNN
@@ -153,7 +155,9 @@ https://p2xu7ctvpt.freestream24.com/live2/6uha88xkdq/playlist.m3u8?GbKw5AndgYGQP
 https://p2xu7ctvpt.freestream24.com/live2/k7gvXaZYPH/playlist.m3u8?Hu9Qyi9Cn6-EBqbd4uW9DCwZ7HTb2sPrcwOTJGzGLAAPnH0iwM_vDVfHwwZLDV8926JNx6dDTa6ZDcKVRfdCgqv7J-xMtvtTICUNV8QBMAk
 #EXTINF:-1 tvg-id="" tvg-name="MBN" tvg-language="Korean" tvg-logo="https://i.imgur.com/MiQwAmJ.jpg" tvg-country="KR" tvg-url="http://www.mbn.co.kr/"1 group-title="",MBN
 #EXTVLCOPT:http-referrer=https://www.mbn.co.kr/vod/onair
-https://www.mbn.co.kr/player/mbnStreamAuth_new_live.mbn?vod_url=https://hls-live.mbn.co.kr/mbn-on-air/1000k/playlist.m3u8
+https://www.mbn.co.kr/player/mbnStreamAuth_new_live.mbn?vod_url=https%3A%2F%2Fhls-live.mbn.co.kr%2Fmbn-on-air%2F1000k%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBN (KOR TV)" tvg-language="Korean" tvg-logo="https://i.imgur.com/MiQwAmJ.jpg" tvg-country="KR" tvg-url="http://www.mbn.co.kr/"1 group-title="",MBN (KOR TV)
+https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MNet" tvg-language="Korean" tvg-logo="https://i.imgur.com/pnNXFrT.png" tvg-country="KR" tvg-url="" group-title="Entertainment",MNet
 http://121.149.122.138:9981/stream/channelid/57
 #EXTINF:-1 tvg-id="" tvg-name="MNet (Mirror)" tvg-language="Korean" tvg-logo="https://i.imgur.com/pnNXFrT.png" tvg-country="KR" tvg-url="" group-title="Entertainment",MNet (Mirror)
@@ -258,6 +262,8 @@ http://139.150.248.29:1935/smartlive/558/91258ac21591769e21f41b96f26d883e/playli
 https://ducg38fv680xm.cloudfront.net/yeonhap_3M.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Yonhap News TV (HEVC) (Lite)" tvg-language="Korean" tvg-logo="https://i.imgur.com/k1QtdEa.png" tvg-country="KR" tvg-url=""1 group-title="News",Yonhap News TV (HEVC) (Lite)
 https://ducg38fv680xm.cloudfront.net/yeonhap-hevc_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Yonhap News TV (KOR TV)" tvg-language="Korean" tvg-logo="https://i.imgur.com/k1QtdEa.png" tvg-country="KR" tvg-url=""1 group-title="News",Yonhap News TV (KOR TV)
+https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Yonhap News TV (Youtube)" tvg-language="Korean" tvg-logo="https://i.imgur.com/k1QtdEa.png" tvg-country="KR" tvg-url=""1 group-title="News",Yonhap News TV (Youtube)
 https://www.youtube.com/channel/UCTHCOPwqNfZ0uiKOvFyhGwg/live
 #EXTINF:-1 tvg-id="" tvg-name="Yonhap News TV (South Korea IP ONLY)" tvg-language="Korean" tvg-logo="https://i.imgur.com/k1QtdEa.png" tvg-country="KR" tvg-url=""1 group-title="News",Yonhap News TV (South Korea IP ONLY)
