@@ -280,6 +280,8 @@ https://www.youtube.com/channel/UCTHCOPwqNfZ0uiKOvFyhGwg/live
 http://1.214.67.12:80/73401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1080P;WIFI
 #EXTINF:-1 tvg-id="" tvg-name="YTN" tvg-language="Korean" tvg-logo="https://i.imgur.com/bVcgefk.jpg" tvg-country="KR" tvg-url=""1 group-title="News",YTN
 http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="YTN (Mirror)" tvg-language="Korean" tvg-logo="https://i.imgur.com/bVcgefk.jpg" tvg-country="KR" tvg-url=""1 group-title="News",YTN (Mirror)
+https://livecloud.pstatic.net/navertv/lip2_kr/anmss1138/UiOA18Efu6NcFEK2gGpYohT6Z1O0RZ2KPeFMA2oC4Kl5MctwUNN68kGqxfGsknGAmenVvNuKv2hcag/playlist.m3u8?_lsu_sa_=34c91611386b38152501a2f5697226166be93fe80223a91c3e16b30adea93fd976818b5531b669f901123921e029f6367c01e10a5a8d712831eac3ac034456ccfba7a3f7de6ad6bed6c3654aa1ea087463bd2a3f650dedfd8771e87357d16e6b4c49490f9d90ad9e488847dfd930ef610d82146c6448c32b632e92065c200fb7ba6136b5edf9c5ef729b6fbc8570a4471acf6ce446621139078b55d1aedb9acbf9e0ddd20c87010032987a9f8ce085f9&_lsu_et_=1649268214
 #EXTINF:-1 tvg-id="" tvg-name="YTN (Youtube)" tvg-language="Korean" tvg-logo="https://i.imgur.com/bVcgefk.jpg" tvg-country="KR" tvg-url=""1 group-title="News",YTN (Youtube)
 https://www.youtube.com/c/ytnnews24/live
 #EXTINF:-1 tvg-id="" tvg-name="YTN (South Korea IP ONLY)" tvg-language="Korean" tvg-logo="https://i.imgur.com/bVcgefk.jpg" tvg-country="KR" tvg-url=""1 group-title="News",YTN (South Korea IP ONLY)
