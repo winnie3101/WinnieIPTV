@@ -77,6 +77,8 @@ https://gstv-gsshop.gsshop.com/gsshop_hd/_definst_/gsshop_hd.stream/playlist.m3u
 http://123.111.139.103:1935/live/hmall.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hyundai Hmall+ Shop" tvg-language="Korean" tvg-logo="https://i.imgur.com/CBUel9u.jpg" tvg-country="KR" tvg-url="" group-title="Shopping",Hyundai Hmall+ Shop
 https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/chunklist_b3000000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IDOL LIVE Original" tvg-language="Korean" tvg-logo="" tvg-country="KR" tvg-url="" group-title="Entertainment",IDOL LIVE Original
+https://d3u7axkkfljg2m.cloudfront.net/out/v1/1d805f5d8e934ae6a9cc5dddd5907671/index_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="JCN" tvg-language="Korean" tvg-logo="https://i.imgur.com/HCiXkjm.png" tvg-country="KR" tvg-url="Regional" group-title="",JCN
 https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="JEI English TV (South Korea IP ONLY)" tvg-language="Korean" tvg-logo="https://i.imgur.com/xmUziGL.png" tvg-country="KR" tvg-url="https://jeienglishtv.com/main/main.do"1 group-title="Educational",JEI English TV (South Korea IP ONLY)
