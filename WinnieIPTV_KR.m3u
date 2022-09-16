@@ -131,6 +131,8 @@ http://kbs-dokdo.gscdn.com/dokdo_800/_definst_/dokdo_800.stream/playlist.m3u8
 http://ye23.vip/z7z8/2021/kbs2020.php?id=1
 #EXTINF:-1 tvg-id="" tvg-name="KBS2" tvg-language="Korean" tvg-logo="https://i.imgur.com/TPAaSO9.png" tvg-country="KR" tvg-url="http://www.kbs.co.kr"1 group-title="Korean",KBS2
 http://183.99.22.189:9981/stream/channelid/1564137658
+#EXTINF:-1 tvg-id="" tvg-name="KBS2 (Mirror)" tvg-language="Korean" tvg-logo="https://i.imgur.com/TPAaSO9.png" tvg-country="KR" tvg-url="http://www.kbs.co.kr"1 group-title="Korean",KBS2 (Mirror)
+http://ye23.vip/z7z8/2021/kbs2020.php?id=2
 #EXTINF:-1 tvg-id="" tvg-name="KBS News" tvg-language="Korean" tvg-logo="https://i.imgur.com/iKufjP1.png" tvg-country="KR" tvg-url="http://www.kbs.co.kr"1 group-title="News",KBS News
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/newskbs/live
 #EXTINF:-1 tvg-id="" tvg-name="KBS News (Mirror)" tvg-language="Korean" tvg-logo="https://i.imgur.com/iKufjP1.png" tvg-country="KR" tvg-url="http://www.kbs.co.kr"1 group-title="News",KBS News (Mirror)
