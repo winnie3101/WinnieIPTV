@@ -61,7 +61,7 @@ https://apichvod19.seezntv.com/OTM/10650_M.m3u8?AdaptiveType=HLS&SessionID=3438d
 http://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EBS+ 2" tvg-language="Korean" tvg-logo="https://i.imgur.com/KDG3rSQ.png" tvg-country="KR" tvg-url="http://www.ebs.co.kr/" group-title="Educational",EBS+ 2
 http://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EBSe" tvg-language="Korean" tvg-logo="https://i.imgur.com/lPjkRuV.jpg" tvg-country="KR" tvg-url="http://www.ebs.co.kr/" group-title="Educational",EBSe
+#EXTINF:-1 tvg-id="" tvg-name="EBS English" tvg-language="Korean" tvg-logo="https://i.imgur.com/lPjkRuV.jpg" tvg-country="KR" tvg-url="http://www.ebs.co.kr/" group-title="Educational",EBS English
 http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EBSi" tvg-language="Korean" tvg-logo="https://i.imgur.com/fV1Pc8F.jpg" tvg-country="KR" tvg-url="" group-title="Educational",EBSi
 http://ebsonair.ebs.co.kr:1935/plus1familypc/familypc1m/playlist.m3u8
