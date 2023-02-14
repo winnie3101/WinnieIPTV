@@ -14,6 +14,5 @@
 
 	$matches = str_replace('playlist.m3u8', 'playlist_720p/index.m3u8', $matches);
 	
-    #$PlayURL = $matches[1];
     header("location:$PlayURL");
 ?>
