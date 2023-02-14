@@ -18,7 +18,7 @@
     */
    
     $id = $_GET['id']; //S01
-	$bstrURL = "https://apis.sbs.co.kr/play-api/2.0/onair/channel/$id?v_type=2&platform=pcweb&protocol=hls&ssl=N&rscuse=&jwt-token=&rnd=683";
+	$bstrURL = "http://dev.apis.sbs.co.kr/play-api/2.0/onair/channel/$id?v_type=2&platform=pcweb&protocol=hls&ssl=N&rscuse=&jwt-token=N&rnd=616";
 	#$proxy = '220.87.121.155:80';
     $ch = curl_init();
         curl_setopt($ch, CURLOPT_URL, $bstrURL);
