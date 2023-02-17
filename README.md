@@ -1,8 +1,8 @@
 # WinnieIPTV
-Winnie IPTV is M3U Free service for Everyone! เป็นบริการไฟล์ IPTV (M3U) ดูทีวีออนไลน์ฟรี
+Winnie IPTV is M3U Free service for Everyone! เป็นบริการ IPTV (M3U) ดูทีวีออนไลน์ฟรี
 
-We made it for convenience only. Not intended to infringe any copyright of any kind.
-เราจัดทำขึ้นเพื่ออำนวยความสะดวกเท่านั้น มิได้เจตนาละเมิดลิขสิทธิ์ใดๆทั้งสิ้น
+We made it for promoting and convenience only. Not intended to infringe any copyright of any kind.
+เราจัดทำขึ้นเพื่อประชาสัมพันธ์และอำนวยความสะดวกเท่านั้น มิได้เจตนาละเมิดลิขสิทธิ์ใดๆ ทั้งสิ้น
 
 
 Donate to support บริจาคเพื่อสนับสนุน:
