@@ -1,24 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="ALL THE K-POP" tvg-language="Korean" tvg-logo="https://i.imgur.com/HLynLZo.jpg" tvg-country="KR" tvg-url="" group-title="Entertainment",ALL THE K-POP
-https://apichvod21.seezntv.com/OTM/10960_H.m3u8?AdaptiveType=HLS&SessionID=a0df5a15-b494-4669-ab0a-91f02601ccd3
-#EXTINF:-1 tvg-id="" tvg-name="ALL THE K-POP (720p)" tvg-language="Korean" tvg-logo="https://i.imgur.com/HLynLZo.jpg" tvg-country="KR" tvg-url="" group-title="Entertainment",ALL THE K-POP (720p)
-https://apichvod21.seezntv.com/OTM/10960_H.m3u8?AdaptiveType=HLS&SessionID=a0df5a15-b494-4669-ab0a-91f02601ccd3
-#EXTINF:-1 tvg-id="" tvg-name="ALL THE K-POP (Mirror) (Youtube)" tvg-language="Korean" tvg-logo="https://i.imgur.com/HLynLZo.jpg" tvg-country="KR" tvg-url="" group-title="Entertainment",ALL THE K-POP (Youtube)
+#EXTINF:-1 tvg-id="" tvg-name="ALL THE K-POP" tvg-language="Korean" tvg-logo="" tvg-country="KR" tvg-url="" group-title="Entertainment",ALL THE K-POP
+https://livestreams.mewinnie.gq/livestreams/kr_live/wavve.php?id=M10
+#EXTINF:-1 tvg-id="" tvg-name="ALL THE K-POP (Mirror) (Youtube)" tvg-language="Korean" tvg-logo="" tvg-country="KR" tvg-url="" group-title="Entertainment",ALL THE K-POP (Youtube)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ALLTHEKPOP/live
-#EXTINF:-1 tvg-id="" tvg-name="Arirang TV" tvg-language="English" tvg-logo="https://i.imgur.com/O1Yz9Lp.jpg" tvg-country="KR" tvg-url="https://www.arirang.com/" group-title="Cultures",Arirang TV
+#EXTINF:-1 tvg-id="" tvg-name="Arirang TV" tvg-language="English" tvg-logo="" tvg-country="KR" tvg-url="https://www.arirang.com/" group-title="Cultures",Arirang TV
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Arte HD" tvg-language="Korean" tvg-logo="https://i.imgur.com/WVCwgqM.png" tvg-country="KR" tvg-url="http://www.arte.co.kr/" group-title="Art",Arte HD
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/TheArteTV/live
-#EXTINF:-1 tvg-id="" tvg-name="AsiaN" tvg-language="Korean" tvg-logo="https://i.imgur.com/eYIIp6t.png" tvg-country="KR" tvg-url="" group-title="Entertainment",AsiaN
-https://apichvod21.seezntv.com/OTM/10200_H.m3u8?AdaptiveType=HLS&SessionID=a0df5a15-b494-4669-ab0a-91f02601ccd3
-#EXTINF:-1 tvg-id="" tvg-name="AsiaN (720p)" tvg-language="Korean" tvg-logo="https://i.imgur.com/eYIIp6t.png" tvg-country="KR" tvg-url="" group-title="Entertainment",AsiaN (720p)
-https://apichvod21.seezntv.com/OTM/10200_M.m3u8?AdaptiveType=HLS&SessionID=a0df5a15-b494-4669-ab0a-91f02601ccd3
-#EXTINF:-1 tvg-id="" tvg-name="AsiaN (South Korea IP ONLY)" tvg-language="Korean" tvg-logo="https://i.imgur.com/eYIIp6t.png" tvg-country="KR" tvg-url="" group-title="Entertainment",AsiaN (South Korea IP ONLY)
+#EXTINF:-1 tvg-id="" tvg-name="AsiaN" tvg-language="Korean" tvg-logo="" tvg-country="KR" tvg-url="" group-title="Entertainment",AsiaN
+https://livestreams.mewinnie.gq/livestreams/kr_live/wavve.php?id=C5101
+#EXTINF:-1 tvg-id="" tvg-name="AsiaN (South Korea IP ONLY)" tvg-language="Korean" tvg-logo="" tvg-country="KR" tvg-url="" group-title="Entertainment",AsiaN (South Korea IP ONLY)
 http://1.214.67.12:80/65801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1080P;WIFI
 #EXTINF:-1 tvg-id="" tvg-name="Billiards TV" tvg-language="Korean" tvg-logo="https://i.imgur.com/tXjSynh.gif" tvg-country="KR" tvg-url="" group-title="Sport",Billiards TV
-https://apichvod21.seezntv.com/OTM/10080_H.m3u8?AdaptiveType=HLS&SessionID=a0df5a15-b494-4669-ab0a-91f02601ccd3
+
 #EXTINF:-1 tvg-id="" tvg-name="Billiards TV (720p)" tvg-language="Korean" tvg-logo="https://i.imgur.com/tXjSynh.gif" tvg-country="KR" tvg-url="" group-title="Sport",Billiards TV (720p)
-https://apichvod21.seezntv.com/OTM/10080_M.m3u8?AdaptiveType=HLS&SessionID=a0df5a15-b494-4669-ab0a-91f02601ccd3
+
 #EXTINF:-1 tvg-id="" tvg-name="Billiards TV (South Korea IP ONLY)" tvg-language="Korean" tvg-logo="https://i.imgur.com/tXjSynh.gif" tvg-country="KR" tvg-url="" group-title="Sport",Billiards TV (South Korea IP ONLY)
 http://1.214.67.12:80/66801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1080P;WIFI
 #EXTINF:-1 tvg-id="" tvg-name="BBS Buddhist Broadcasting" tvg-language="Korean" tvg-logo="https://i.imgur.com/N4OWFzx.jpg" tvg-country="KR" tvg-url="" group-title="Religious",BBS Buddhist Broadcasting
@@ -30,13 +24,16 @@ http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGNTV" tvg-language="Korean" tvg-logo="https://i.imgur.com/SQI9PAz.png" tvg-country="KR" tvg-url="" group-title="Religious",CGNTV
 https://cgntvlive-998.acs.wecandeo.com/ms/2850/998/index_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel A" tvg-language="Korean" tvg-logo="https://i.imgur.com/GIr5rvG.png" tvg-country="KR" tvg-url="http://www.ichannela.com" group-title="Korean",Channel A
-https://dl.dropboxusercontent.com/s/dk5b17ay8cs5s93/channel_a.php?dl=1
+https://livestreams.mewinnie.gq/livestreams/kr_live/wavve.php?id=C2501
+#EXTINF:-1 tvg-id="" tvg-name="Channel A (480p)" tvg-language="Korean" tvg-logo="https://i.imgur.com/GIr5rvG.png" tvg-country="KR" tvg-url="http://www.ichannela.com" group-title="Korean",Channel A (480p)
+#EXTVLCOPT:http-referrer=https://sdr4w5g.allyearcdn.com/player/live/?g=i0us6yac2e&q=0&sports=false
+https://azure2986.fastedge.net/live2/i0us6yac2e/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel A (South Korea IP ONLY)" tvg-language="Korean" tvg-logo="https://i.imgur.com/GIr5rvG.png" tvg-country="KR" tvg-url="http://www.ichannela.com" group-title="Korean",Channel A (South Korea IP ONLY)
 http://1.214.67.100/vod/74901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 #EXTINF:-1 tvg-id="" tvg-name="Channel A (Mirror)" tvg-language="Korean" tvg-logo="https://i.imgur.com/GIr5rvG.png" tvg-country="KR" tvg-url="http://www.ichannela.com" group-title="Korean",Channel A (Mirror)
 http://han.ddkdxmkj.com/api/han123.php?id=15
 #EXTINF:-1 tvg-id="" tvg-name="Ch NOW" tvg-language="Korean" tvg-logo="https://i.imgur.com/2avUwue.png" tvg-country="KR" tvg-url="http://www.imtcast.com" group-title="Entertainment",Ch NOW
-http://106.246.182.11:9981/stream/channelid/23
+https://livestreams.mewinnie.gq/livestreams/kr_live/wavve.php?id=
 #EXTINF:-1 tvg-id="" tvg-name="CJ Onstyle" tvg-language="Korean" tvg-logo="https://i.imgur.com/jSitXqc.jpg" tvg-country="KR" tvg-url="" group-title="Shopping",CJ Onstyle
 https://live-ch1.cjonstyle.net/cjmalllive/_definst_/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CJ Onstyle Plus" tvg-language="Korean" tvg-logo="https://i.imgur.com/jSitXqc.jpg" tvg-country="KR" tvg-url="" group-title="Shopping",CJ Onstyle Plus
@@ -44,9 +41,7 @@ https://live-ch2.cjonstyle.net/cjosplus/_definst_/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CTS" tvg-language="Korean" tvg-logo="https://i.imgur.com/3w6pzTc.jpg" tvg-country="KR" tvg-url="https://www.cts.tv/" group-title="Religious",CTS
 https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Daekyo Kids TV (대교이린이TV)" tvg-language="Korean" tvg-logo="https://i.imgur.com/VcX0DzS.jpg" tvg-country="KR" tvg-url="https://www.kids17.net/" group-title="Kids",Daekyo Kids TV (대교이린이TV)
-https://apichvod21.seezntv.com/OTM/11820_H.m3u8?AdaptiveType=HLS&SessionID=a0df5a15-b494-4669-ab0a-91f02601ccd3
-#EXTINF:-1 tvg-id="" tvg-name="Daekyo Kids TV (대교이린이TV) (720p)" tvg-language="Korean" tvg-logo="https://i.imgur.com/VcX0DzS.jpg" tvg-country="KR" tvg-url="https://www.kids17.net/" group-title="Kids",Daekyo Kids TV (대교이린이TV) (720p)
-https://apichvod21.seezntv.com/OTM/11820_M.m3u8?AdaptiveType=HLS&SessionID=a0df5a15-b494-4669-ab0a-91f02601ccd3
+https://livestreams.mewinnie.gq/livestreams/kr_live/wavve.php?id=
 #EXTINF:-1 tvg-id="" tvg-name="EBS 1" tvg-language="Korean" tvg-logo="https://i.imgur.com/PPj5kG4.png" tvg-country="KR" tvg-url="http://www.ebs.co.kr/" group-title="Educational",EBS 1
 https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EBS 1 (HD)" tvg-language="Korean" tvg-logo="https://i.imgur.com/PPj5kG4.png" tvg-country="KR" tvg-url="http://www.ebs.co.kr/" group-title="Educational",EBS 1 (HD)
@@ -101,60 +96,61 @@ https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/chunkl
 https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="JEI English TV (South Korea IP ONLY)" tvg-language="Korean" tvg-logo="https://i.imgur.com/xmUziGL.png" tvg-country="KR" tvg-url="https://jeienglishtv.com/main/main.do"1 group-title="Educational",JEI English TV (South Korea IP ONLY)
 http://1.214.67.100/vod/79301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1080P;WIFI
-#EXTINF:-1 tvg-id="" tvg-name="JTBC" tvg-language="Korean" tvg-logo="https://i.imgur.com/oTAWtZ1.png" tvg-country="KR" tvg-url="http://onair.jtbc.joins.com/"1 group-title="Korean",JTBC
-https://apichvod21.seezntv.com/OTM/10010_H.m3u8?AdaptiveType=HLS&SessionID=a0df5a15-b494-4669-ab0a-91f02601ccd3
-#EXTINF:-1 tvg-id="" tvg-name="JTBC (720p)" tvg-language="Korean" tvg-logo="https://i.imgur.com/oTAWtZ1.png" tvg-country="KR" tvg-url="http://onair.jtbc.joins.com/"1 group-title="Korean",JTBC (720p)
-https://cdn-live-us74.cloudrsst.com/live/jtbc_720/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="JTBC (540p)" tvg-language="Korean" tvg-logo="https://i.imgur.com/oTAWtZ1.png" tvg-country="KR" tvg-url="http://onair.jtbc.joins.com/"1 group-title="Korean",JTBC (540p)
-https://cdn-live-us74.cloudrsst.com/live/jtbc_540/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="JTBC (South Korea IP ONLY)" tvg-language="Korean" tvg-logo="https://i.imgur.com/oTAWtZ1.png" tvg-country="KR" tvg-url="http://onair.jtbc.joins.com/"1 group-title="Entertainment",JTBC (South Korea IP ONLY)
+#EXTINF:-1 tvg-id="" tvg-name="JTBC" tvg-language="Korean" tvg-logo="https://i.imgur.com/oTAWtZ1.png" tvg-country="KR" tvg-url="https://jtbc.co.kr"1 group-title="Korean",JTBC
+
+#EXTINF:-1 tvg-id="" tvg-name="JTBC (480p)" tvg-language="Korean" tvg-logo="https://i.imgur.com/oTAWtZ1.png" tvg-country="KR" tvg-url="https://jtbc.co.kr"1 group-title="Korean",JTBC (480p)
+#EXTVLCOPT:http-referrer=https://sdr4w5g.allyearcdn.com/player/live/?g=5pb6uqm5gr&q=0&sports=false
+https://azure2986.fastedge.net/live2/5pb6uqm5gr/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JTBC (South Korea IP ONLY)" tvg-language="Korean" tvg-logo="https://i.imgur.com/oTAWtZ1.png" tvg-country="KR" tvg-url="https://jtbc.co.kr"1 group-title="Entertainment",JTBC (South Korea IP ONLY)
 http://1.214.67.100/vod/74701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1080P;WIFI
-#EXTINF:-1 tvg-id="" tvg-name="JTBC2" tvg-language="Korean" tvg-logo="https://i.imgur.com/8lC324G.jpg" tvg-country="KR" tvg-url="http://onair.jtbc.joins.com/"1 group-title="Korean",JTBC2
-https://apichvod21.seezntv.com/OTM/10780_H.m3u8?AdaptiveType=HLS&SessionID=a0df5a15-b494-4669-ab0a-91f02601ccd3
-#EXTINF:-1 tvg-id="" tvg-name="JTBC2 (720p)" tvg-language="Korean" tvg-logo="https://i.imgur.com/8lC324G.jpg" tvg-country="KR" tvg-url="http://onair.jtbc.joins.com/"1 group-title="Korean",JTBC2 (720p)
-https://apichvod21.seezntv.com/OTM/10780_M.m3u8?AdaptiveType=HLS&SessionID=a0df5a15-b494-4669-ab0a-91f02601ccd3
-#EXTINF:-1 tvg-id="" tvg-name="JTBC2 (South Korea IP ONLY)" tvg-language="Korean" tvg-logo="https://i.imgur.com/8lC324G.jpg" tvg-country="KR" tvg-url="http://onair.jtbc.joins.com/"1 group-title="",JTBC2 (South Korea IP ONLY)
+#EXTINF:-1 tvg-id="" tvg-name="JTBC2" tvg-language="Korean" tvg-logo="https://i.imgur.com/8lC324G.jpg" tvg-country="KR" tvg-url="https://jtbc.co.kr"1 group-title="Korean",JTBC2
+
+#EXTINF:-1 tvg-id="" tvg-name="JTBC2 (720p)" tvg-language="Korean" tvg-logo="https://i.imgur.com/8lC324G.jpg" tvg-country="KR" tvg-url="https://jtbc.co.kr"1 group-title="Korean",JTBC2 (720p)
+
+#EXTINF:-1 tvg-id="" tvg-name="JTBC2 (South Korea IP ONLY)" tvg-language="Korean" tvg-logo="https://i.imgur.com/8lC324G.jpg" tvg-country="KR" tvg-url="https://jtbc.co.kr"1 group-title="",JTBC2 (South Korea IP ONLY)
 http://1.214.67.20/vod/60601.m3u8?SessionID=f9e384c3-07d8-4229-b7e8-f949cde0a2de&VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1080P;WIFI
-#EXTINF:-1 tvg-id="" tvg-name="JTBC4" tvg-language="Korean" tvg-logo="https://i.imgur.com/MHOfjUf.jpg" tvg-country="KR" tvg-url="http://onair.jtbc.joins.com/"1 group-title="Korean",JTBC4
-https://apichvod21.seezntv.com/OTM/10890_H.m3u8?AdaptiveType=HLS&SessionID=a0df5a15-b494-4669-ab0a-91f02601ccd3
-#EXTINF:-1 tvg-id="" tvg-name="JTBC4 (720p)" tvg-language="Korean" tvg-logo="https://i.imgur.com/MHOfjUf.jpg" tvg-country="KR" tvg-url="http://onair.jtbc.joins.com/"1 group-title="Korean",JTBC4 (720p)
-https://apichvod21.seezntv.com/OTM/10890_M.m3u8?AdaptiveType=HLS&SessionID=a0df5a15-b494-4669-ab0a-91f02601ccd3
-#EXTINF:-1 tvg-id="" tvg-name="JTBC4 (South Korea IP ONLY)" tvg-language="Korean" tvg-logo="https://i.imgur.com/MHOfjUf.jpg" tvg-country="KR" tvg-url="http://onair.jtbc.joins.com/"1 group-title="",JTBC4 (South Korea IP ONLY)
+#EXTINF:-1 tvg-id="" tvg-name="JTBC4" tvg-language="Korean" tvg-logo="https://i.imgur.com/MHOfjUf.jpg" tvg-country="KR" tvg-url="https://jtbc.co.kr"1 group-title="Korean",JTBC4
+
+#EXTINF:-1 tvg-id="" tvg-name="JTBC4 (720p)" tvg-language="Korean" tvg-logo="https://i.imgur.com/MHOfjUf.jpg" tvg-country="KR" tvg-url="https://jtbc.co.kr"1 group-title="Korean",JTBC4 (720p)
+
+#EXTINF:-1 tvg-id="" tvg-name="JTBC4 (South Korea IP ONLY)" tvg-language="Korean" tvg-logo="https://i.imgur.com/MHOfjUf.jpg" tvg-country="KR" tvg-url="https://jtbc.co.kr"1 group-title="",JTBC4 (South Korea IP ONLY)
 http://1.214.67.40/vod/76701.m3u8?SessionID=f9e384c3-07d8-4229-b7e8-f949cde0a2de&VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1080P;WIFI
-#EXTINF:-1 tvg-id="" tvg-name="JTBC Golf" tvg-language="Korean" tvg-logo="https://i.imgur.com/0XUrW9Y.jpg" tvg-country="KR" tvg-url="http://onair.jtbc.joins.com/"1 group-title="Sports",JTBC Golf
-https://apichvod21.seezntv.com/OTM/10280_H.m3u8?AdaptiveType=HLS&SessionID=a0df5a15-b494-4669-ab0a-91f02601ccd3
-#EXTINF:-1 tvg-id="" tvg-name="JTBC Golf (720p)" tvg-language="Korean" tvg-logo="https://i.imgur.com/0XUrW9Y.jpg" tvg-country="KR" tvg-url="http://onair.jtbc.joins.com/"1 group-title="Sports",JTBC Golf (720p)
-https://apichvod21.seezntv.com/OTM/10280_M.m3u8?AdaptiveType=HLS&SessionID=a0df5a15-b494-4669-ab0a-91f02601ccd3
-#EXTINF:-1 tvg-id="" tvg-name="JTBC Golf (South Korea IP ONLY)" tvg-language="Korean" tvg-logo="https://i.imgur.com/0XUrW9Y.jpg" tvg-country="KR" tvg-url="http://onair.jtbc.joins.com/"1 group-title="Sports",JTBC Golf (South Korea IP ONLY)
+#EXTINF:-1 tvg-id="" tvg-name="JTBC Golf" tvg-language="Korean" tvg-logo="https://i.imgur.com/0XUrW9Y.jpg" tvg-country="KR" tvg-url="https://jtbc.co.kr"1 group-title="Sports",JTBC Golf
+
+#EXTINF:-1 tvg-id="" tvg-name="JTBC Golf (720p)" tvg-language="Korean" tvg-logo="https://i.imgur.com/0XUrW9Y.jpg" tvg-country="KR" tvg-url="https://jtbc.co.kr"1 group-title="Sports",JTBC Golf (720p)
+
+#EXTINF:-1 tvg-id="" tvg-name="JTBC Golf (South Korea IP ONLY)" tvg-language="Korean" tvg-logo="https://i.imgur.com/0XUrW9Y.jpg" tvg-country="KR" tvg-url="https://jtbc.co.kr"1 group-title="Sports",JTBC Golf (South Korea IP ONLY)
 http://1.214.67.12:80/60201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1080P;WIFI
-#EXTINF:-1 tvg-id="" tvg-name="JTBC Golf & Sports" tvg-language="Korean" tvg-logo="https://i.imgur.com/16Ag0yL.png" tvg-country="KR" tvg-url="http://onair.jtbc.joins.com/"1 group-title="Sports",JTBC Golf & Sports
-https://apichvod21.seezntv.com/OTM/10700_H.m3u8?AdaptiveType=HLS&SessionID=a0df5a15-b494-4669-ab0a-91f02601ccd3
-#EXTINF:-1 tvg-id="" tvg-name="JTBC Golf & Sports (720p)" tvg-language="Korean" tvg-logo="https://i.imgur.com/16Ag0yL.png" tvg-country="KR" tvg-url="http://onair.jtbc.joins.com/"1 group-title="Sports",JTBC Golf & Sports (720p)
-https://apichvod21.seezntv.com/OTM/10700_M.m3u8?AdaptiveType=HLS&SessionID=a0df5a15-b494-4669-ab0a-91f02601ccd3
-#EXTINF:-1 tvg-id="" tvg-name="JTBC Golf & Sports (South Korea IP ONLY)" tvg-language="Korean" tvg-logo="https://i.imgur.com/16Ag0yL.png" tvg-country="KR" tvg-url="http://onair.jtbc.joins.com/"1 group-title="Sports",JTBC Golf & Sports (South Korea IP ONLY)
+#EXTINF:-1 tvg-id="" tvg-name="JTBC Golf & Sports" tvg-language="Korean" tvg-logo="https://i.imgur.com/16Ag0yL.png" tvg-country="KR" tvg-url="https://jtbc.co.kr"1 group-title="Sports",JTBC Golf & Sports
+https://livestreams.mewinnie.gq/livestreams/kr_live/jtbc_golfsports.php
+#EXTINF:-1 tvg-id="" tvg-name="JTBC Golf & Sports (720p)" tvg-language="Korean" tvg-logo="https://i.imgur.com/16Ag0yL.png" tvg-country="KR" tvg-url="https://jtbc.co.kr"1 group-title="Sports",JTBC Golf & Sports (720p)
+
+#EXTINF:-1 tvg-id="" tvg-name="JTBC Golf & Sports (South Korea IP ONLY)" tvg-language="Korean" tvg-logo="https://i.imgur.com/16Ag0yL.png" tvg-country="KR" tvg-url="https://jtbc.co.kr"1 group-title="Sports",JTBC Golf & Sports (South Korea IP ONLY)
 http://1.214.67.12:80/79501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1080P;WIFI
 #EXTINF:-1 tvg-id="" tvg-name="KBS LiveCam DokDo" tvg-language="Korean" tvg-logo="https://i.imgur.com/b7uMB9T.png" tvg-country="KR" tvg-url="http://www.kbs.co.kr" group-title="LiveCam",KBS LiveCam DokDo
-https://dl.dropboxusercontent.com/s/t4gre12pek6rks9/kbs.php?id=cctv01&dl=1
+https://livestreams.mewinnie.gq/livestreams/kr_live/kbs.php?id=cctv01
 #EXTINF:-1 tvg-id="" tvg-name="KBS LiveCam DokDo HD" tvg-language="Korean" tvg-logo="https://i.imgur.com/b7uMB9T.png" tvg-country="KR" tvg-url="http://www.kbs.co.kr" group-title="LiveCam",KBS LiveCam DokDo HD
 http://kbs-dokdo.gscdn.com/dokdo_800/_definst_/dokdo_800.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KBS LiveCam DokDo SD" tvg-language="Korean" tvg-logo="https://i.imgur.com/b7uMB9T.png" tvg-country="KR" tvg-url="http://www.kbs.co.kr" group-title="LiveCam",KBS LiveCam DokDo SD
 http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KBS1" tvg-language="Korean" tvg-logo="https://i.imgur.com/I4Z8R02.jpg" tvg-country="KR" tvg-url="http://www.kbs.co.kr"1 group-title="Korean",KBS1
-https://dl.dropboxusercontent.com/s/t4gre12pek6rks9/kbs.php?id=11&dl=1
-#EXTINF:-1 tvg-id="" tvg-name="KBS1 (Mirror)" tvg-language="Korean" tvg-logo="https://i.imgur.com/I4Z8R02.jpg" tvg-country="KR" tvg-url="http://www.kbs.co.kr"1 group-title="Korean",KBS1 (Mirror)
-https://cdn-live-us74.cloudrsst.com/live/kbs1_720/playlist.m3u8
+https://livestreams.mewinnie.gq/livestreams/kr_live/kbs.php?id=11
+#EXTINF:-1 tvg-id="" tvg-name="KBS1 (480p)" tvg-language="Korean" tvg-logo="https://i.imgur.com/I4Z8R02.jpg" tvg-country="KR" tvg-url="http://www.kbs.co.kr"1 group-title="Korean",KBS1 (480p)
+#EXTVLCOPT:http-referrer=https://sdr4w5g.allyearcdn.com/player/live/?g=vipk8s918q&q=0&sports=false
+https://azure2986.fastedge.net/live2/vipk8s918q/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KBS2" tvg-language="Korean" tvg-logo="https://i.imgur.com/TPAaSO9.png" tvg-country="KR" tvg-url="http://www.kbs.co.kr"1 group-title="Korean",KBS2
-http://183.99.22.189:9981/stream/channelid/1564137658
-#EXTINF:-1 tvg-id="" tvg-name="KBS2 (720p)" tvg-language="Korean" tvg-logo="https://i.imgur.com/TPAaSO9.png" tvg-country="KR" tvg-url="http://www.kbs.co.kr"1 group-title="Korean",KBS2 (720p)
-https://cdn-live-us74.cloudrsst.com/live/kbs2_720/playlist.m3u8
+https://livestreams.mewinnie.gq/livestreams/kr_live/kbs.php?id=12
+#EXTINF:-1 tvg-id="" tvg-name="KBS2 (480p)" tvg-language="Korean" tvg-logo="https://i.imgur.com/TPAaSO9.png" tvg-country="KR" tvg-url="http://www.kbs.co.kr"1 group-title="Korean",KBS2 (480p)
+#EXTVLCOPT:http-referrer=https://sdr4w5g.allyearcdn.com/player/live/?g=j8wh89g7p6&q=0&sports=false
+https://azure2986.fastedge.net/live2/j8wh89g7p6/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KBS2 (Mirror)" tvg-language="Korean" tvg-logo="https://i.imgur.com/TPAaSO9.png" tvg-country="KR" tvg-url="http://www.kbs.co.kr"1 group-title="Korean",KBS2 (Mirror)
-https://dl.dropboxusercontent.com/s/t4gre12pek6rks9/kbs.php?id=12&dl=1
+http://183.99.22.189:9981/stream/channelid/1564137658
 #EXTINF:-1 tvg-id="" tvg-name="KBS News D" tvg-language="Korean" tvg-logo="https://i.imgur.com/iKufjP1.png" tvg-country="KR" tvg-url="http://www.kbs.co.kr"1 group-title="News",KBS News D
-https://dl.dropboxusercontent.com/s/t4gre12pek6rks9/kbs.php?id=81&dl=1
+
 #EXTINF:-1 tvg-id="" tvg-name="KBS Drama" tvg-language="Korean" tvg-logo="https://i.imgur.com/q0iBpra.png" tvg-country="KR" tvg-url="http://www.kbs.co.kr"1 group-title="Entertainment",KBS Drama
-https://dl.dropboxusercontent.com/s/t4gre12pek6rks9/kbs.php?id=N91&dl=1
+
 #EXTINF:-1 tvg-id="" tvg-name="KBS Joy" tvg-language="Korean" tvg-logo="https://i.imgur.com/2LsJFd7.jpg" tvg-country="KR" tvg-url="http://www.kbs.co.kr"1 group-title="Entertainment",KBS Joy
-https://dl.dropboxusercontent.com/s/t4gre12pek6rks9/kbs.php?id=N92&dl=1
+
 #EXTINF:-1 tvg-id="" tvg-name="KBS Joy (1080p)" tvg-language="Korean" tvg-logo="https://i.imgur.com/2LsJFd7.jpg" tvg-country="KR" tvg-url="http://www.kbs.co.kr"1 group-title="Entertainment",KBS Joy (1080p)
 http://106.246.182.11:9981/stream/channelid/108
 #EXTINF:-1 tvg-id="" tvg-name="KBS Joy (South Korea IP ONLY)" tvg-language="Korean" tvg-logo="https://i.imgur.com/2LsJFd7.jpg" tvg-country="KR" tvg-url="http://www.kbs.co.kr"1 group-title="Entertainment",KBS Joy (South Korea IP ONLY)
@@ -162,7 +158,7 @@ http://1.214.67.40/vod/76701.m3u8?SessionID=f9e384c3-07d8-4229-b7e8-f949cde0a2de
 #EXTINF:-1 tvg-id="" tvg-name="KBS Korea" tvg-language="Korean" tvg-logo="https://i.imgur.com/Vvma7kb.png" tvg-country="KR" tvg-url="http://www.kbs.co.kr"1 group-title="Korean",KBS Korea
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/kbsworldtv/live
 #EXTINF:-1 tvg-id="" tvg-name="KBS Life" tvg-language="Korean" tvg-logo="https://i.imgur.com/Miwudgr.jpg" tvg-country="KR" tvg-url="http://www.kbs.co.kr"1 group-title="Entertainment",KBS Life
-https://dl.dropboxusercontent.com/s/t4gre12pek6rks9/kbs.php?id=N93&dl=1
+
 #EXTINF:-1 tvg-id="" tvg-name="KBSN Plus (South Korea IP ONLY)" tvg-language="Korean" tvg-logo="https://i.imgur.com/ES9QDh0.png" tvg-country="KR" tvg-url="http://www.kbs.co.kr"1 group-title="Entertainment",KBSN Plus (South Korea IP ONLY)
 http://1.214.67.100/vod/38901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1080P;WIFI
 #EXTINF:-1 tvg-id="" tvg-name="KBSN Sports" tvg-language="Korean" tvg-logo="https://i.imgur.com/SF2uRBv.jpg" tvg-country="KR" tvg-url="http://www.kbs.co.kr"1 group-title="Sports",KBSN Sports
@@ -206,7 +202,8 @@ https://dl.dropboxusercontent.com/s/k4og6d5uosoc3yl/mbc.php?dl=0
 #EXTINF:-1 tvg-id="" tvg-name="MBC (Mirror)" tvg-language="Korean" tvg-logo="https://i.imgur.com/kTPYn2E.jpg" tvg-country="KR" tvg-url="http://www.imbc.com/"1 group-title="Korean",MBC (Mirror)
 http://106.246.182.11:9981/stream/channelid/113
 #EXTINF:-1 tvg-id="" tvg-name="MBC (540p)" tvg-language="Korean" tvg-logo="https://i.imgur.com/kTPYn2E.jpg" tvg-country="KR" tvg-url="http://www.imbc.com/"1 group-title="Korean",MBC (540p)
-https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://sdr4w5g.allyearcdn.com/player/live/?g=sdmgv7y53u&q=0&sports=false
+https://azure2986.fastedge.net/live2/sdmgv7y53u/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MBC Every1" tvg-language="Korean" tvg-logo="https://i.imgur.com/hIOBXFl.jpg" tvg-country="KR" tvg-url="http://www.imbc.com/"1 group-title="Korean",MBC Every1
 https://p2xu7ctvpt.freestream24.com/live2/6uha88xkdq/playlist.m3u8?GbKw5AndgYGQPJmTWjVgjQ4V15FiBdNNPddEBje1GccH3jOFqW7Rhl8C1hPhsqGWmeQWYQeTf185gbu_tqRDZmhcrOMW3WKtNU247MirdVc
 #EXTINF:-1 tvg-id="" tvg-name="MBC M" tvg-language="Korean" tvg-logo="https://i.imgur.com/ZFzsTB6.png" tvg-country="KR" tvg-url="http://www.imbc.com/"1 group-title="Entertainment",MBC M
@@ -214,16 +211,16 @@ https://p2xu7ctvpt.freestream24.com/live2/k7gvXaZYPH/playlist.m3u8?Hu9Qyi9Cn6-EB
 #EXTINF:-1 tvg-id="" tvg-name="MBN" tvg-language="Korean" tvg-logo="https://i.imgur.com/MiQwAmJ.jpg" tvg-country="KR" tvg-url="http://www.mbn.co.kr/"1 group-title="Korean",MBN
 #EXTVLCOPT:http-referrer=https://www.mbn.co.kr/vod/onair
 https://www.mbn.co.kr/player/mbnStreamAuth_new_live.mbn?vod_url=https%3A%2F%2Fhls-live.mbn.co.kr%2Fmbn-on-air%2F1000k%2Fplaylist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBN (Mirror)" tvg-language="Korean" tvg-logo="https://i.imgur.com/MiQwAmJ.jpg" tvg-country="KR" tvg-url="http://www.mbn.co.kr/"1 group-title="Korean",MBN (Mirror)
-https://apichvod21.seezntv.com/OTM/10020_H.m3u8?AdaptiveType=HLS&SessionID=a0df5a15-b494-4669-ab0a-91f02601ccd3
-#EXTINF:-1 tvg-id="" tvg-name="MBN (Mirror) (720p)" tvg-language="Korean" tvg-logo="https://i.imgur.com/MiQwAmJ.jpg" tvg-country="KR" tvg-url="http://www.mbn.co.kr/"1 group-title="Korean",MBN (Mirror) (720p)
-https://apichvod21.seezntv.com/OTM/10020_M.m3u8?AdaptiveType=HLS&SessionID=a0df5a15-b494-4669-ab0a-91f02601ccd3
+#EXTINF:-1 tvg-id="" tvg-name="MBN (480p)" tvg-language="Korean" tvg-logo="https://i.imgur.com/MiQwAmJ.jpg" tvg-country="KR" tvg-url="http://www.mbn.co.kr/"1 group-title="Korean",MBN (480p)
+#EXTVLCOPT:http-referrer=https://sdr4w5g.allyearcdn.com/player/live/?g=smf11kflp7&q=0&sports=false
+https://azure2986.fastedge.net/live2/smf11kflp7/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MBN (KOR TV)" tvg-language="Korean" tvg-logo="https://i.imgur.com/MiQwAmJ.jpg" tvg-country="KR" tvg-url="http://www.mbn.co.kr/"1 group-title="Korean",MBN (KOR TV)
 https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mnet" tvg-language="Korean" tvg-logo="https://i.imgur.com/pnNXFrT.png" tvg-country="KR" tvg-url="" group-title="Entertainment",Mnet
-https://apichvod21.seezntv.com/OTM/10150_H.m3u8?AdaptiveType=HLS&SessionID=a0df5a15-b494-4669-ab0a-91f02601ccd3
-#EXTINF:-1 tvg-id="" tvg-name="Mnet (720p)" tvg-language="Korean" tvg-logo="https://i.imgur.com/pnNXFrT.png" tvg-country="KR" tvg-url="" group-title="Entertainment",Mnet (720p)
-http://cdn-live-us74.cloudrsst.com/live/mnet_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Mnet (480p)" tvg-language="Korean" tvg-logo="https://i.imgur.com/pnNXFrT.png" tvg-country="KR" tvg-url="" group-title="Entertainment",Mnet (480p)
+#EXTVLCOPT:http-referrer=https://sdr4w5g.allyearcdn.com/player/live/?g=gbqgifs7im&q=0&sports=false
+https://azure2986.fastedge.net/live2/gbqgifs7im/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mnet (Japan IP ONLY)" tvg-language="Korean" tvg-logo="https://i.imgur.com/pnNXFrT.png" tvg-country="KR" tvg-url="" group-title="Entertainment",Mnet (Japan IP ONLY)
 https://krlive-hls.smart.mnetjp.com/mnet/live5000.smil/chunklist_b7692000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mnet (Mirror)" tvg-language="Korean" tvg-logo="https://i.imgur.com/pnNXFrT.png" tvg-country="KR" tvg-url="" group-title="Entertainment",Mnet (Mirror)
@@ -266,10 +263,9 @@ https://apichvod21.seezntv.com/OTM/11720_H.m3u8?AdaptiveType=HLS&SessionID=a0df5
 https://apichvod21.seezntv.com/OTM/11720_M.m3u8?AdaptiveType=HLS&SessionID=a0df5a15-b494-4669-ab0a-91f02601ccd3
 #EXTINF:-1 tvg-id="" tvg-name="PLAYY Premium Movies" tvg-language="Korean" tvg-logo="https://img.pooq.co.kr/BMS/ChannelImg/27_playy%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84%EC%98%81%ED%99%94.png" tvg-country="KR" tvg-url="" group-title="Entertainment",PLAYY Premium Movies
 http://132.145.83.248:9981/stream/channelid/704310334
-#EXTINF:-1 tvg-id="" tvg-name="PLAYY Premium Movies (Mirror)" tvg-language="Korean" tvg-logo="https://img.pooq.co.kr/BMS/ChannelImg/27_playy%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84%EC%98%81%ED%99%94.png" tvg-country="KR" tvg-url="" group-title="Entertainment",PLAYY Premium Movies (Mirror)
-https://apichvod21.seezntv.com/OTM/11750_H.m3u8?AdaptiveType=HLS&SessionID=a0df5a15-b494-4669-ab0a-91f02601ccd3
-#EXTINF:-1 tvg-id="" tvg-name="PLAYY Premium Movies (Mirror) (720p)" tvg-language="Korean" tvg-logo="https://img.pooq.co.kr/BMS/ChannelImg/27_playy%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84%EC%98%81%ED%99%94.png" tvg-country="KR" tvg-url="" group-title="Entertainment",PLAYY Premium Movies (Mirror) (720p)
-https://apichvod21.seezntv.com/OTM/11750_M.m3u8?AdaptiveType=HLS&SessionID=a0df5a15-b494-4669-ab0a-91f02601ccd3
+#EXTINF:-1 tvg-id="" tvg-name="PLAYY Premium Movies (480p)" tvg-language="Korean" tvg-logo="https://img.pooq.co.kr/BMS/ChannelImg/27_playy%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84%EC%98%81%ED%99%94.png" tvg-country="KR" tvg-url="" group-title="Entertainment",PLAYY Premium Movies (Mirror) (480p)
+#EXTVLCOPT:http-referrer=https://sdr4w5g.allyearcdn.com/player/live/?g=Z87yWMDJbh&q=0&sports=false
+https://azure2986.fastedge.net/live2/Z87yWMDJbh/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PLAYY Premium Movies (South Korea IP ONLY)" tvg-language="Korean" tvg-logo="https://img.pooq.co.kr/BMS/ChannelImg/27_playy%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84%EC%98%81%ED%99%94.png" tvg-country="KR" tvg-url="" group-title="Entertainment",PLAYY Premium Movies (South Korea IP ONLY)
 http://1.214.67.12:80/39101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
 #EXTINF:-1 tvg-id="" tvg-name="PLAYY Wellmade Movies" tvg-language="Korean" tvg-logo="https://img.pooq.co.kr/BMS/ChannelImg/28_playy%EC%9B%94%EB%A9%94%EC%9D%B4%EB%93%9C%EC%98%81%ED%99%94.png" tvg-country="KR" tvg-url="" group-title="Entertainment",PLAYY Wellmade Movies
@@ -281,9 +277,10 @@ https://apichvod21.seezntv.com/OTM/11740_M.m3u8?AdaptiveType=HLS&SessionID=a0df5
 #EXTINF:-1 tvg-id="" tvg-name="PLAYY Wellmade Movies (South Korea IP ONLY)" tvg-language="Korean" tvg-logo="https://img.pooq.co.kr/BMS/ChannelImg/28_playy%EC%9B%94%EB%A9%94%EC%9D%B4%EB%93%9C%EC%98%81%ED%99%94.png" tvg-country="KR" tvg-url="" group-title="Entertainment",PLAYY Wellmade Movies (South Korea IP ONLY)
 http://1.214.67.12:80/39201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
 #EXTINF:-1 tvg-id="" tvg-name="SBS" tvg-language="Korean" tvg-logo="https://i.imgur.com/QLU1hem.png" tvg-country="KR" tvg-url="https://www.sbs.co.kr/"1 group-title="Korean",SBS
-https://www.dropbox.com/s/im7xkdh8oxmao3a/sbs.php?id=S01&dl=0
-#EXTINF:-1 tvg-id="" tvg-name="SBS (720p)" tvg-language="Korean" tvg-logo="https://i.imgur.com/QLU1hem.png" tvg-country="KR" tvg-url="https://www.sbs.co.kr/"1 group-title="Korean",SBS (720p)
-https://cdn-live-us74.cloudrsst.com/live/sbs_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SBS (480p)" tvg-language="Korean" tvg-logo="https://i.imgur.com/QLU1hem.png" tvg-country="KR" tvg-url="https://www.sbs.co.kr/"1 group-title="Korean",SBS (480p)
+#EXTVLCOPT:http-referrer=https://sdr4w5g.allyearcdn.com/player/live/?g=fyy2qd90t9&q=0&sports=false
+https://azure2986.fastedge.net/live2/fyy2qd90t9/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SBS (Mirror)" tvg-language="Korean" tvg-logo="https://i.imgur.com/QLU1hem.png" tvg-country="KR" tvg-url="https://www.sbs.co.kr/"1 group-title="Korean",SBS (Mirror)
 http://183.99.22.189:9981/stream/channelid/1124346476
 #EXTINF:-1 tvg-id="" tvg-name="SBS (Mirror 2)" tvg-language="Korean" tvg-logo="https://i.imgur.com/QLU1hem.png" tvg-country="KR" tvg-url="https://www.sbs.co.kr/"1 group-title="Korean",SBS (Mirror 2)
@@ -291,19 +288,22 @@ http://ye23.win/iptv/sbs5.1.php?id=S01
 #EXTINF:-1 tvg-id="" tvg-name="SBS (South Korea IP ONLY)" tvg-language="Korean" tvg-logo="https://i.imgur.com/QLU1hem.png" tvg-country="KR" tvg-url="https://www.sbs.co.kr/"1 group-title="Korean",SBS (South Korea IP ONLY)
 http://1.214.67.12:80/01101.m3u8?AdaptiveType=HLS&VOD_RequestID=v2M2-0101-1010-7272-5050-000020201213223628;LTE;480p;WIFI
 #EXTINF:-1 tvg-id="" tvg-name="SBS Biz" tvg-language="Korean" tvg-logo="https://i.imgur.com/PObN49X.png" tvg-country="KR" tvg-url="https://www.sbs.co.kr/"1 group-title="Financial",SBS Biz
-https://www.dropbox.com/s/im7xkdh8oxmao3a/sbs.php?id=S06&dl=0
+
 #EXTINF:-1 tvg-id="" tvg-name="SBS FunE" tvg-language="Korean" tvg-logo="https://i.imgur.com/nmQKFDJ.jpg" tvg-country="KR" tvg-url="https://www.sbs.co.kr/"1 group-title="Entertainment",SBS FunE
-https://www.dropbox.com/s/im7xkdh8oxmao3a/sbs.php?id=S04&dl=0
+
 #EXTINF:-1 tvg-id="" tvg-name="SBS Golf" tvg-language="Korean" tvg-logo="https://i.imgur.com/XG8yYm4.jpg" tvg-country="KR" tvg-url="https://www.sbs.co.kr/"1 group-title="Sport",SBS Golf
-https://www.dropbox.com/s/im7xkdh8oxmao3a/sbs.php?id=S05&dl=0
+
 #EXTINF:-1 tvg-id="" tvg-name="SBS Golf (South Korea IP ONLY)" tvg-language="Korean" tvg-logo="https://i.imgur.com/XG8yYm4.jpg" tvg-country="KR" tvg-url="https://www.sbs.co.kr/"1 group-title="Sport",SBS Golf (South Korea IP ONLY)
 http://1.214.67.12:80/61401.m3u8?AdaptiveType=HLS&VOD_RequestID=v2M2-0101-1010-7272-5050-000020201213223628;LTE;480p;WIFI
 #EXTINF:-1 tvg-id="" tvg-name="SBS M" tvg-language="Korean" tvg-logo="https://i.imgur.com/PSNeRHI.png" tvg-country="KR" tvg-url="https://www.sbs.co.kr/"1 group-title="Music",SBS M
-https://www.dropbox.com/s/im7xkdh8oxmao3a/sbs.php?id=S09&dl=0
+
 #EXTINF:-1 tvg-id="" tvg-name="SBS Plus" tvg-language="Korean" tvg-logo="https://i.imgur.com/Tf17nIu.png" tvg-country="KR" tvg-url="https://www.sbs.co.kr/"1 group-title="Korean",SBS Plus
-https://www.dropbox.com/s/im7xkdh8oxmao3a/sbs.php?id=S03&dl=0
+
+#EXTINF:-1 tvg-id="" tvg-name="SBS Plus (480p)" tvg-language="Korean" tvg-logo="https://i.imgur.com/Tf17nIu.png" tvg-country="KR" tvg-url="https://www.sbs.co.kr/"1 group-title="Korean",SBS Plus (480p)
+#EXTVLCOPT:http-referrer=https://sdr4w5g.allyearcdn.com/player/live/?g=jfG6rF4yAc&q=0&sports=false
+https://azure2986.fastedge.net/live2/jfG6rF4yAc/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SBS Sports" tvg-language="Korean" tvg-logo="https://i.imgur.com/7ucbMa9.jpg" tvg-country="KR" tvg-url="https://www.sbs.co.kr/"1 group-title="Sport",SBS Sports
-https://www.dropbox.com/s/im7xkdh8oxmao3a/sbs.php?id=S02&dl=0
+
 #EXTINF:-1 tvg-id="" tvg-name="Silver-itv (실버아이TV) (HLS)" tvg-language="Korean" tvg-logo="https://i.imgur.com/k4SpkDT.png" tvg-country="KR" tvg-url="" group-title="Music",Silver-itv (실버아이TV) (HLS)
 http://silveritv.kr:8080/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Silver-itv (실버아이TV) (RTMP)" tvg-language="Korean" tvg-logo="https://i.imgur.com/k4SpkDT.png" tvg-country="KR" tvg-url="" group-title="Music",Silver-itv (실버아이TV) (RTMP)
@@ -339,41 +339,46 @@ https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TBS (Mirror)" tvg-language="Korean" tvg-logo="https://i.imgur.com/wqlTcbI.png" tvg-country="KR" tvg-url="https://tbs.seoul.kr/" group-title="Entertainment",TBS (Mirror)
 http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tomato TV" tvg-language="Korean" tvg-logo="https://i.imgur.com/upE4cuP.png" tvg-country="KR" tvg-url="" group-title="Financial",Tomato TV
-https://apichvod21.seezntv.com/OTM/11860_H.m3u8?AdaptiveType=HLS&SessionID=a0df5a15-b494-4669-ab0a-91f02601ccd3
+
 #EXTINF:-1 tvg-id="" tvg-name="Tomato TV (720p)" tvg-language="Korean" tvg-logo="https://i.imgur.com/upE4cuP.png" tvg-country="KR" tvg-url="" group-title="Financial",Tomato TV (720p)
-https://apichvod21.seezntv.com/OTM/11860_M.m3u8?AdaptiveType=HLS&SessionID=a0df5a15-b494-4669-ab0a-91f02601ccd3
+
 #EXTINF:-1 tvg-id="" tvg-name="Tomato TV (South Korea IP ONLY)" tvg-language="Korean" tvg-logo="https://i.imgur.com/upE4cuP.png" tvg-country="KR" tvg-url="" group-title="Financial",Tomato TV (South Korea IP ONLY)
 http://1.214.67.12:80/77101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1080P;WIFI
 #EXTINF:-1 tvg-id="" tvg-name="TV Chosun" tvg-language="Korean" tvg-logo="https://i.imgur.com/eekIYVn.jpg" tvg-country="KR" tvg-url="" group-title="Korean",TV Chosun
 #EXTVLCOPT:http-user-agent=broadcast.tvchosun/19.2.1 (Linux;Android 8.1.0) ExoPlayerLib/2.11.8
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Chosun (Mirror) (720p)" tvg-language="Korean" tvg-logo="https://i.imgur.com/eekIYVn.jpg" tvg-country="KR" tvg-url="" group-title="Korean",TV Chosun (Mirror) (720p)
+#EXTINF:-1 tvg-id="" tvg-name="TV Chosun (720p)" tvg-language="Korean" tvg-logo="https://i.imgur.com/eekIYVn.jpg" tvg-country="KR" tvg-url="" group-title="Korean",TV Chosun (Mirror) (720p)
 https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Chosun (480p)" tvg-language="Korean" tvg-logo="https://i.imgur.com/eekIYVn.jpg" tvg-country="KR" tvg-url="" group-title="Korean",TV Chosun (Mirror) (480p)
+#EXTVLCOPT:http-referrer=https://sdr4w5g.allyearcdn.com/player/live/?g=4b1cksgsle&q=0&sports=false
+https://azure2986.fastedge.net/live2/4b1cksgsle/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Chosun 2" tvg-language="Korean" tvg-logo="" tvg-country="KR" tvg-url="" group-title="Entertainment",TV Chosun 2
 #EXTVLCOPT:http-user-agent=broadcast.tvchosun/19.2.1 (Linux;Android 8.1.0) ExoPlayerLib/2.11.8
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Chosun (South Korea IP ONLY)" tvg-language="Korean" tvg-logo="https://i.imgur.com/eekIYVn.jpg" tvg-country="KR" tvg-url="" group-title="Entertainment",TV Chosun (South Korea IP ONLY)
 http://1.209.146.20:80/746H.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1080P;WIFI
 #EXTINF:-1 tvg-id="" tvg-name="tvN" tvg-language="Korean" tvg-logo="https://i.imgur.com/QVKzHm6.jpg" tvg-country="KR" tvg-url="http://tvn.tving.com"1 group-title="Entertainment",tvN
-https://apichvod21.seezntv.com/OTM/10050_H.m3u8?AdaptiveType=HLS&SessionID=a0df5a15-b494-4669-ab0a-91f02601ccd3
-#EXTINF:-1 tvg-id="" tvg-name="tvN (720p)" tvg-language="Korean" tvg-logo="https://i.imgur.com/QVKzHm6.jpg" tvg-country="KR" tvg-url="http://tvn.tving.com"1 group-title="Entertainment",tvN (720p)
-http://cdn-live-us74.cloudrsst.com/live/tvn_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="tvN (480p)" tvg-language="Korean" tvg-logo="https://i.imgur.com/QVKzHm6.jpg" tvg-country="KR" tvg-url="http://tvn.tving.com"1 group-title="Entertainment",tvN (480p)
+#EXTVLCOPT:http-referrer=https://sdr4w5g.allyearcdn.com/player/live/?g=4ofux18f5c&q=0&sports=false
+https://azure2986.fastedge.net/live2/4ofux18f5c/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="tvN (South Korea IP ONLY)" tvg-language="Korean" tvg-logo="https://i.imgur.com/QVKzHm6.jpg" tvg-country="KR" tvg-url="http://tvn.tving.com"1 group-title="Entertainment",tvN (South Korea IP ONLY)
 http://1.214.67.12:80/68201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1080P;WIFI
 #EXTINF:-1 tvg-id="" tvg-name="tvN Drama" tvg-language="Korean" tvg-logo="https://i.imgur.com/u82cDe9.png" tvg-country="KR" tvg-url="http://tvndrama.tving.com"1 group-title="Entertainment",tvN Drama
-https://apichvod21.seezntv.com/OTM/10110_H.m3u8?AdaptiveType=HLS&SessionID=a0df5a15-b494-4669-ab0a-91f02601ccd3
-#EXTINF:-1 tvg-id="" tvg-name="tvN Drama (720p)" tvg-language="Korean" tvg-logo="https://i.imgur.com/u82cDe9.png" tvg-country="KR" tvg-url="http://tvndrama.tving.com"1 group-title="Entertainment",tvN Drama (720p)
-https://apichvod21.seezntv.com/OTM/10110_M.m3u8?AdaptiveType=HLS&SessionID=a0df5a15-b494-4669-ab0a-91f02601ccd3
+
+#EXTINF:-1 tvg-id="" tvg-name="tvN Drama (480p)" tvg-language="Korean" tvg-logo="https://i.imgur.com/u82cDe9.png" tvg-country="KR" tvg-url="http://tvndrama.tving.com"1 group-title="Entertainment",tvN Drama (480p)
+
 #EXTINF:-1 tvg-id="" tvg-name="tvN SHOW" tvg-language="Korean" tvg-logo="https://i.imgur.com/rXDbrHz.png" tvg-country="KR" tvg-url="http://tvnshow.tving.com"1 group-title="Entertainment",tvN SHOW
-https://apichvod21.seezntv.com/OTM/10130_H.m3u8?AdaptiveType=HLS&SessionID=a0df5a15-b494-4669-ab0a-91f02601ccd3
-#EXTINF:-1 tvg-id="" tvg-name="tvN SHOW (720p)" tvg-language="Korean" tvg-logo="https://i.imgur.com/rXDbrHz.png" tvg-country="KR" tvg-url="http://tvnshow.tving.com"1 group-title="Entertainment",tvN SHOW (720p)
-https://apichvod21.seezntv.com/OTM/10130_M.m3u8?AdaptiveType=HLS&SessionID=a0df5a15-b494-4669-ab0a-91f02601ccd3
+
+#EXTINF:-1 tvg-id="" tvg-name="tvN SHOW (480p)" tvg-language="Korean" tvg-logo="https://i.imgur.com/rXDbrHz.png" tvg-country="KR" tvg-url="http://tvnshow.tving.com"1 group-title="Entertainment",tvN SHOW (480p)
+#EXTVLCOPT:http-referrer=https://sdr4w5g.allyearcdn.com/player/live/?g=qv8t8hpetm&q=0&sports=false
+https://azure2986.fastedge.net/live2/qv8t8hpetm/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="tvN SHOW (South Korea IP ONLY)" tvg-language="Korean" tvg-logo="https://i.imgur.com/rXDbrHz.png" tvg-country="KR" tvg-url="http://tvnshow.tving.com"1 group-title="Entertainment",tvN SHOW (South Korea IP ONLY)
 http://1.214.67.12:80/67101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1080P;WIFI
 #EXTINF:-1 tvg-id="" tvg-name="tvN Story" tvg-language="Korean" tvg-logo="https://i.imgur.com/GWwZvQL.png" tvg-country="KR" tvg-url="http://tvnstory.tving.com"1 group-title="Entertainment",tvN Story
 https://apichvod21.seezntv.com/OTM/10120_H.m3u8?AdaptiveType=HLS&SessionID=a0df5a15-b494-4669-ab0a-91f02601ccd3
-#EXTINF:-1 tvg-id="" tvg-name="tvN Story (720p)" tvg-language="Korean" tvg-logo="https://i.imgur.com/GWwZvQL.png" tvg-country="KR" tvg-url="http://tvnstory.tving.com"1 group-title="Entertainment",tvN Story (720p)
-https://apichvod21.seezntv.com/OTM/10120_M.m3u8?AdaptiveType=HLS&SessionID=a0df5a15-b494-4669-ab0a-91f02601ccd3
+#EXTINF:-1 tvg-id="" tvg-name="tvN Story (480p)" tvg-language="Korean" tvg-logo="https://i.imgur.com/GWwZvQL.png" tvg-country="KR" tvg-url="http://tvnstory.tving.com"1 group-title="Entertainment",tvN Story (480p)
+
 #EXTINF:-1 tvg-id="" tvg-name="TVWorksNet (한국직업방송)" tvg-language="Korean" tvg-logo="https://i.imgur.com/ZaxOiM4.png" tvg-country="KR" tvg-url="https://www.worktv.or.kr/index.do" group-title="Korean",TVWorksNet (한국직업방송)
 http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Welfare TV (복지TV)" tvg-language="Korean" tvg-logo="https://i.imgur.com/tTBWX4d.png" tvg-country="KR" tvg-url="http://www.iwbc.co.kr/" group-title="Lifestyle",Welfare TV (복지TV)
@@ -381,9 +386,7 @@ http://139.150.248.29/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3
 #EXTINF:-1 tvg-id="" tvg-name="Yes TV(소상공인방송)" tvg-language="Korean" tvg-logo="https://i.imgur.com/O2krQuP.png" tvg-country="KR" tvg-url="https://yestv.or.kr/" group-title="Lifestyle",Small Business Broadcasting (소상공인방송)
 http://139.150.248.29:1935/smartlive/558/91258ac21591769e21f41b96f26d883e/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Yonhap News TV" tvg-language="Korean" tvg-logo="https://i.imgur.com/k1QtdEa.png" tvg-country="KR" tvg-url=""1 group-title="News",Yonhap News TV
-https://ducg38fv680xm.cloudfront.net/yeonhap_3M.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Yonhap News TV (HEVC)" tvg-language="Korean" tvg-logo="https://i.imgur.com/k1QtdEa.png" tvg-country="KR" tvg-url=""1 group-title="News",Yonhap News TV (HEVC)
-https://ducg38fv680xm.cloudfront.net/yeonhap-hevc_3.m3u8
+https://d159bkgw8gqbya.cloudfront.net/out/v1/78665f25586047cfb63902bad6486b6b/yonhap-hevc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Yonhap News TV (KOR TV)" tvg-language="Korean" tvg-logo="https://i.imgur.com/k1QtdEa.png" tvg-country="KR" tvg-url=""1 group-title="News",Yonhap News TV (KOR TV)
 https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Yonhap News TV (Mirror) (1080p)" tvg-language="Korean" tvg-logo="https://i.imgur.com/k1QtdEa.png" tvg-country="KR" tvg-url=""1 group-title="News",Yonhap News TV (Mirror) (1080p)
