@@ -4,14 +4,13 @@ https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBT HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/xxKyygZ.jpg" tvg-country="TH" tvg-url="http://nbt2hd.prd.go.th" group-title="News",NBT HD
 https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist_w1720690897_b3128000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Thai PBS HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/BpFxw3p.png" tvg-country="TH" tvg-url="https://www.thaipbs.or.th" group-title="",Thai PBS HD
-http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Thai PBS HD (VIPA)" tvg-language="Thai" tvg-logo="https://i.imgur.com/BpFxw3p.png" tvg-country="TH" tvg-url="https://vipa.me" group-title="",Thai PBS HD (VIPA)
-https://bcovlive-a.akamaihd.net/984050d277654e8db8a4c46f0543dd73/ap-southeast-1/6075037809001/profile_0/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ALTV" tvg-language="Thai" tvg-logo="https://i.imgur.com/3EqQO2L.png" tvg-country="TH" tvg-url="https://www.altv.tv" group-title="Education",ALTV
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TPTV" tvg-language="Thai" tvg-logo="https://i.imgur.com/Z2fVleU.jpg" tvg-country="TH" tvg-url="https://www.parliament.go.th" group-title="News",TPTV
-#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0048/HLS/V0048-avc1_2000000=5.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=8322ab95e05df145ca12b88f4904c3d3&chunkHttps=true&tmid=V0048&tpbk=mZVKA0YIh7OxF12z&rrt=1699769465&tmod=rfk&rsid=90164db1-001b-4d66-bc50-247baf9a0865&tuid=s1hTUIGGqBLgLAXNinc4zm14lGv8t7zXv3IDGj6eyXSBmS96ka71%2FOo%2FIro81dpsTcQTLYxWNqIVgz3ZzybbJRY7sh%2Bb0WyeyuSMEvxfIfR7A%3D&cdn=redfox-https&tdid=d527bbb77b4a238c877a6549cf6e0414&origin=anevia&tfa=f0-fc&tttl=1699855865
+
 #EXTINF:-1 tvg-id="" tvg-name="TNN16" tvg-language="Thai" tvg-logo="https://i.imgur.com/wtz1CDm.jpg" tvg-country="TH" tvg-url="https://www.tnnthailand.com" group-title="News",TNN16
 https://winnielivestreams.infinityfreeapp.com/livestreams/th_live/tnn16.php
 #EXTINF:-1 tvg-id="" tvg-name="JKN 18" tvg-language="Thai" tvg-logo="https://i.imgur.com/rS73Ora.jpg" tvg-country="TH" tvg-url="https://www.newtv.co.th" group-title="Documentary",JKN 18
