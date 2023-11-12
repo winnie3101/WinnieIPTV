@@ -242,7 +242,7 @@ http://121.130.210.101:9981/stream/channelid/370423945
 #EXTINF:-1 tvg-id="" tvg-name="NS Shop+" tvg-language="Korean" tvg-logo="https://i.imgur.com/XobzLSZ.png" tvg-country="KR" tvg-url="http://www.nsmall.com" group-title="Shopping",NS Shop+
 http://shoppstream.nsmall.com:1935/IPHONE/PC.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="OBS" tvg-language="Korean" tvg-logo="https://i.imgur.com/C1zvP3w.png" tvg-country="KR" tvg-url="" group-title="Korean",OBS
-http://59.23.231.102:1935/live/obsstream1/myStream.sdp/playlist.m3u8
+https://vod.obs.co.kr:444/live/obsstream1/tv.stream/chunklist_w846805792.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="OBS (1080p)" tvg-language="Korean" tvg-logo="https://i.imgur.com/C1zvP3w.png" tvg-country="KR" tvg-url="" group-title="Korean",OBS (1080p)
 http://112.187.218.162:9981/stream/channelid/96
 #EXTINF:-1 tvg-id="" tvg-name="Olive" tvg-language="Korean" tvg-logo="https://i.imgur.com/rIYgaQI.png" tvg-country="KR" tvg-url="" group-title="Entertainment",Olive
