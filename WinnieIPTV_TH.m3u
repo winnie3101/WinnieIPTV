@@ -10,15 +10,15 @@ https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TPTV" tvg-language="Thai" tvg-logo="https://i.imgur.com/Z2fVleU.jpg" tvg-country="TH" tvg-url="https://www.parliament.go.th" group-title="News",TPTV
 https://cdn-live.tpchannel.org/v1/0180e10a4a7809df73070d7d8760/0180e10adac40b8ed59433d5f3ce/TV_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNN16" tvg-language="Thai" tvg-logo="https://i.imgur.com/wtz1CDm.jpg" tvg-country="TH" tvg-url="https://www.tnnthailand.com" group-title="News",TNN16
-https://winnielivestreams.infinityfreeapp.com/livestreams/th_live/tnn16.php
+https://cycial.000webhostapp.com/livestreams/th_live/tnn16.php
 #EXTINF:-1 tvg-id="" tvg-name="JKN 18" tvg-language="Thai" tvg-logo="https://i.imgur.com/rS73Ora.jpg" tvg-country="TH" tvg-url="https://www.newtv.co.th" group-title="Documentary",JKN 18
 https://5f27aa1f6ef91.streamlock.net/jkncnbc/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nation TV" tvg-language="Thai" tvg-logo="https://i.imgur.com/GwkjNsF.png" tvg-country="TH" tvg-url="https://www.nationtv.tv" group-title="News",Nation TV
-https://winnielivestreams.infinityfreeapp.com/livestreams/daliymotion.php?id=x6eoldf
+https://cycial.000webhostapp.com/livestreams/daliymotion.php?id=x6eoldf
 #EXTINF:-1 tvg-id="" tvg-name="Workpoint TV" tvg-language="Thai" tvg-logo="https://i.imgur.com/xZFOzHr.jpg" tvg-country="TH" tvg-url="https://www.workpointtv.com" group-title="Entertainment",Workpoint TV
-https://winnielivestreams.infinityfreeapp.com/livestreams/daliymotion.php?id=x6g9qjj
+https://cycial.000webhostapp.com/livestreams/daliymotion.php?id=x6g9qjj
 #EXTINF:-1 tvg-id="" tvg-name="True4U" tvg-language="Thai" tvg-logo="https://i.imgur.com/owt9DXr.jpg" tvg-country="TH" tvg-url="http://www.true4u.com" group-title="Entertainment",True4U
-https://winnielivestreams.infinityfreeapp.com/livestreams/th_live/true4u.php
+https://cycial.000webhostapp.com/livestreams/th_live/true4u.php
 #EXTINF:-1 tvg-id="" tvg-name="GMM25" tvg-language="Thai" tvg-logo="https://i.imgur.com/mENgVzV.png" tvg-country="TH" tvg-url="https://www.gmm25.com" group-title="Entertainment",GMM25
 https://bcovlive-a.akamaihd.net/fb7ac9cc4e1140238e3077ffd29337fe/ap-southeast-1/6415628290001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CH8" tvg-language="Thai" tvg-logo="https://i.imgur.com/P6lfWBu.png" tvg-country="TH" tvg-url="https://www.thaich8.com" group-title="",CH8
@@ -34,9 +34,9 @@ https://bcovlive-a.akamaihd.net/c26f60fa5a8f4f13a2d2e0336e429b7d/ap-southeast-1/
 #EXTINF:-1 tvg-id="" tvg-name="Thairath HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/ozcLGD7.jpg" tvg-country="TH" tvg-url="https://www.thairath.co.th/" group-title="",Thairath HD
 https://streaming-web.thairath.co.th/hls/playlist_hi.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel 3 HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/vzdU2xD.png" tvg-country="TH" tvg-url="https://www.ch3thailand.com" group-title="Entertainment",Channel 3 HD
-https://winnielivestreams.infinityfreeapp.com/livestreams/th_live/ch3.php
+https://cycial.000webhostapp.com/livestreams/th_live/ch3.php
 #EXTINF:-1 tvg-id="" tvg-name="Amarin TV HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/5q48OBS.png" tvg-country="TH" tvg-url="https://www.amarintv.com" group-title="Entertainment",Amarin TV HD
-https://winnielivestreams.infinityfreeapp.com/livestreams/th_live/amarin_tv.php
+https://cycial.000webhostapp.com/livestreams/th_live/amarin_tv.php
 #EXTINF:-1 tvg-id="" tvg-name="CH7 HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/DcrHenu.png" tvg-country="TH" tvg-url="https://www.ch7.com" group-title="Entertainment",CH7 HD
 http://streaming-hwc.ch7.com/livech7hd/HD_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CH7 HD (540p)" tvg-language="Thai" tvg-logo="https://i.imgur.com/DcrHenu.png" tvg-country="TH" tvg-url="https://www.ch7.com" group-title="Entertainment",CH7 HD (540p)
