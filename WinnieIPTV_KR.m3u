@@ -183,6 +183,8 @@ https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
 http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Korean Song Channel (한국가요채널)" tvg-language="Korean" tvg-logo="https://i.imgur.com/H4o1bpS.png" tvg-country="KR" tvg-url="" group-title="Music",Korean Song Channel (한국가요채널)
 http://live.kytv.co.kr:8080/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Korean Song Channel (한국가요채널) (RTMP)" tvg-language="Korean" tvg-logo="https://i.imgur.com/H4o1bpS.png" tvg-country="KR" tvg-url="" group-title="Music",Korean Song Channel (한국가요채널) (RTMP)
+rtmp://live.kytv.co.kr/tv
 #EXTINF:-1 tvg-id="" tvg-name="Korea TV" tvg-language="Korean" tvg-logo="https://i.imgur.com/e6yeIHI.gif" tvg-country="KR" tvg-url="" group-title="Korean",Korea TV
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Korea TV (1080p)" tvg-language="Korean" tvg-logo="https://i.imgur.com/e6yeIHI.gif" tvg-country="KR" tvg-url="" group-title="Korean",Korea TV (1080p)
