@@ -282,7 +282,7 @@ http://183.99.22.189:9981/stream/channelid/1124346476
 #EXTVLCOPT:http-referrer=https://sdr4w5g.allyearcdn.com/player/live/?g=fyy2qd90t9&q=0&sports=false
 https://azure2986.fastedge.net/live2/fyy2qd90t9/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SBS (Mirror)" tvg-language="Korean" tvg-logo="https://i.imgur.com/QLU1hem.png" tvg-country="KR" tvg-url="https://www.sbs.co.kr/"1 group-title="Korean",SBS (Mirror)
-https://parselink.winnie.in.th/kr_live/sbs.php?id=S01&streamtype=hls
+https://parselink.winnie.in.th/kr_live/sbs.php?id=S01&streamtype=rtmp
 #EXTINF:-1 tvg-id="" tvg-name="SBS (South Korea IP ONLY)" tvg-language="Korean" tvg-logo="https://i.imgur.com/QLU1hem.png" tvg-country="KR" tvg-url="https://www.sbs.co.kr/"1 group-title="Korean",SBS (South Korea IP ONLY)
 http://1.214.67.12:80/01101.m3u8?AdaptiveType=HLS&VOD_RequestID=v2M2-0101-1010-7272-5050-000020201213223628;LTE;480p;WIFI
 #EXTINF:-1 tvg-id="" tvg-name="SBS Biz" tvg-language="Korean" tvg-logo="https://i.imgur.com/PObN49X.png" tvg-country="KR" tvg-url="https://www.sbs.co.kr/"1 group-title="Financial",SBS Biz
