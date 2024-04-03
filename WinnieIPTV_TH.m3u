@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="TV5 HD1" tvg-language="Thai" tvg-logo="https://i.imgur.com/RPqb1g2.png" tvg-country="TH" tvg-url="http://www.tv5.co.th" group-title="",TV5 HD1
-https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBT HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/xxKyygZ.jpg" tvg-country="TH" tvg-url="http://nbt2hd.prd.go.th" group-title="News",NBT HD
 https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist_w1720690897_b3128000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Thai PBS HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/BpFxw3p.png" tvg-country="TH" tvg-url="https://www.thaipbs.or.th" group-title="",Thai PBS HD
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALTV" tvg-language="Thai" tvg-logo="https://i.imgur.com/3EqQO2L.png" tvg-country="TH" tvg-url="https://www.altv.tv" group-title="Education",ALTV
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV5 HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/RPqb1g2.png" tvg-country="TH" tvg-url="http://www.tv5.co.th" group-title="",TV5 HD1
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TPTV" tvg-language="Thai" tvg-logo="https://i.imgur.com/Z2fVleU.jpg" tvg-country="TH" tvg-url="https://www.parliament.go.th" group-title="News",TPTV
 https://cdn-live.tpchannel.org/v1/0180e10a4a7809df73070d7d8760/0180e10adac40b8ed59433d5f3ce/TV_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNN16" tvg-language="Thai" tvg-logo="https://i.imgur.com/wtz1CDm.jpg" tvg-country="TH" tvg-url="https://www.tnnthailand.com" group-title="News",TNN16
