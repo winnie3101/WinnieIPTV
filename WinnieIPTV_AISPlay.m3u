@@ -7,6 +7,8 @@ https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0014/HLS/
 https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0085/HLS/V0085.m3u8
 #EXTINF:-1 tvg-id="Channel5.th" tvg-name="TV5 HD" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//ch5new.logo.png" tvg-country="TH" tvg-url="http://www.tv5.co.th" group-title="Digital TV",TV5 HD
 https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0007/HLS/B0007.m3u8
+#EXTINF:-1 tvg-id="TSports7.th" tvg-name="T Sports 7" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png" tvg-country="TH" tvg-url="https://www.tsports7.com" group-title="Digital TV",T Sports 7
+https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0129/HLS/V0129.m3u8
 #EXTINF:-1 tvg-id="ThaiParliamentTelevision.th" tvg-name="TPTV" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0048.png" tvg-country="TH" tvg-url="https://www.parliament.go.th" group-title="Digital TV",TPTV
 https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0048/HLS/V0048.m3u8
 #EXTINF:-1 tvg-id="TNN16.th" tvg-name="TNN16" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png" tvg-country="TH" tvg-url="https://www.tnnthailand.com" group-title="Digital TV",,TNN16
