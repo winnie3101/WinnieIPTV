@@ -41,30 +41,30 @@ https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0018/HLS/
 https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0022/HLS/B0022.m3u8
 #EXTINF:-1 tvg-id="VTVNews.th" tvg-name="VTV News (Voice TV)" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/VTVNews.png" tvg-country="TH" tvg-url="" group-title="News",VTV News (Voice TV)
 https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0026/HLS/V0026.m3u8
-#EXTINF:-1 tvg-id="3BBAsian.th" tvg-name="3BB Asian (DRM Protected)" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBAsian_new.png" tvg-country="TH" tvg-url="" group-title="Movie",3BB Asian (DRM Protected)
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0191/HLS/V0191.m3u8
-#EXTINF:-1 tvg-id="WarnerTV.th" tvg-name="Warner TV (DRM Protected)" tvg-language="English" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" tvg-country="TH" tvg-url="" group-title="Movie",Warner TV (DRM Protected)
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/X105/HLS/X105.m3u8
-#EXTINF:-1 tvg-id="MONO29Plus.th" tvg-name="MONO29 Plus (DRM Protected)" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png" tvg-country="TH" tvg-url="" group-title="Entertainment",MONO29 Plus (DRM Protected)
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0192/HLS/V0192.m3u8
-#EXTINF:-1 tvg-id="HBO.th" tvg-name="HBO (DRM Protected)" tvg-language="English" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png" tvg-country="TH" tvg-url="" group-title="Movie",HBO (DRM Protected)
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0114/HLS/V0114.m3u8
-#EXTINF:-1 tvg-id="HBOSignature.th" tvg-name="HBO Signature (DRM Protected)" tvg-language="English" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png" tvg-country="TH" tvg-url="" group-title="Movie",HBO Signature (DRM Protected)
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0117/HLS/V0117.m3u8
-#EXTINF:-1 tvg-id="HBOHits.th" tvg-name="HBO Hits (DRM Protected)" tvg-language="English" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png" tvg-country="TH" tvg-url="" group-title="Movie",HBO Hits (DRM Protected)
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0116/HLS/V0116.m3u8
-#EXTINF:-1 tvg-id="HBOFamily.th" tvg-name="HBO Family (DRM Protected)" tvg-language="English" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png" tvg-country="TH" tvg-url="" group-title="Movie",HBO Family (DRM Protected)
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0115/HLS/V0115.m3u8
-#EXTINF:-1 tvg-id="CINEMAX.th" tvg-name="CINEMAX (DRM Protected)" tvg-language="English" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png" tvg-country="TH" tvg-url="" group-title="Movie",CINEMAX (DRM Protected)
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0118/HLS/V0118.m3u8
+#EXTINF:-1 tvg-id="3BBAsian.th" tvg-name="3BB Asian" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBAsian_new.png" tvg-country="TH" tvg-url="" group-title="Movie",3BB Asian
+https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/D0191/HLS/D0191.m3u8
+#EXTINF:-1 tvg-id="WarnerTV.th" tvg-name="Warner TV" tvg-language="English" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" tvg-country="TH" tvg-url="" group-title="Movie",Warner TV
+https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/D105/HLS/D105.m3u8
+#EXTINF:-1 tvg-id="MONO29Plus.th" tvg-name="MONO29 Plus" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png" tvg-country="TH" tvg-url="" group-title="Entertainment",MONO29 Plus
+https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/D0192/HLS/D0192.m3u8
+#EXTINF:-1 tvg-id="HBO.th" tvg-name="HBO" tvg-language="English" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png" tvg-country="TH" tvg-url="" group-title="Movie",HBO
+https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/D0114/HLS/D0114.m3u8
+#EXTINF:-1 tvg-id="HBOSignature.th" tvg-name="HBO Signature" tvg-language="English" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png" tvg-country="TH" tvg-url="" group-title="Movie",HBO Signature
+https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/D0117/HLS/D0117.m3u8
+#EXTINF:-1 tvg-id="HBOHits.th" tvg-name="HBO Hits" tvg-language="English" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png" tvg-country="TH" tvg-url="" group-title="Movie",HBO Hits
+https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/D0116/HLS/D0116.m3u8
+#EXTINF:-1 tvg-id="HBOFamily.th" tvg-name="HBO Family" tvg-language="English" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png" tvg-country="TH" tvg-url="" group-title="Movie",HBO Family
+https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/D0115/HLS/D0115.m3u8
+#EXTINF:-1 tvg-id="CINEMAX.th" tvg-name="CINEMAX" tvg-language="English" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png" tvg-country="TH" tvg-url="" group-title="Movie",CINEMAX
+https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/D0118/HLS/D0118.m3u8
 #EXTINF:-1 tvg-id="Mangkorn.th" tvg-name="มังกร" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0159.png" tvg-country="TH" tvg-url="" group-title="Movie",มังกร
 https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0159/HLS/V0159.m3u8
-#EXTINF:-1 tvg-id="RockEntertainment.th" tvg-name="ROCK ENTERTAINMENT (DRM Protected)" tvg-language="English" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Rock-Entertainment.png" tvg-country="TH" tvg-url="" group-title="Entertainment",ROCK ENTERTAINMENT (DRM Protected)
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0165/HLS/V0165.m3u8
-#EXTINF:-1 tvg-id="RockAction.th" tvg-name="ROCK Action (DRM Protected)" tvg-language="English" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png" tvg-country="TH" tvg-url="" group-title="Entertainment",ROCK Action (DRM Protected)
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0166/HLS/V0166.m3u8
-#EXTINF:-1 tvg-id="MONO29MusicStation.th" tvg-name="MONO29 Music Station (DRM Protected)" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Music_new.png" tvg-country="TH" tvg-url="" group-title="Music",MONO29 Music Station (DRM Protected)
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0193/HLS/V0193.m3u8
+#EXTINF:-1 tvg-id="RockEntertainment.th" tvg-name="ROCK ENTERTAINMENT" tvg-language="English" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Rock-Entertainment.png" tvg-country="TH" tvg-url="" group-title="Entertainment",ROCK ENTERTAINMENT
+https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/D0165/HLS/D0165.m3u8
+#EXTINF:-1 tvg-id="RockAction.th" tvg-name="ROCK Action" tvg-language="English" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png" tvg-country="TH" tvg-url="" group-title="Entertainment",ROCK Action
+https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/D0166/HLS/D0166.m3u8
+#EXTINF:-1 tvg-id="MONO29MusicStation.th" tvg-name="MONO29 Music Station" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Music_new.png" tvg-country="TH" tvg-url="" group-title="Music",MONO29 Music Station
+https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/D0193/HLS/D0193.m3u8
 #EXTINF:-1 tvg-id="FoodNetwork.th" tvg-name="Food Network (DRM Protected)" tvg-language="English" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0162.png" tvg-country="TH" tvg-url="" group-title="Entertainment",Food Network (DRM Protected)
 https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0162/HLS/V0162.m3u8
 #EXTINF:-1 tvg-id="AsianFoodNetwork.th" tvg-name="Asian Food Network (DRM Protected)" tvg-language="English" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png" tvg-country="TH" tvg-url="" group-title="Entertainment",Asian Food Network (DRM Protected)
@@ -101,8 +101,8 @@ https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0094/HLS/
 https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0091/HLS/V0091.m3u8
 #EXTINF:-1 tvg-id="GolfChannel.th" tvg-name="GOLF CHANNEL" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/GolfChannel.png" tvg-country="TH" tvg-url="" group-title="Sports",GOLF CHANNEL
 https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0130/HLS/V0130.m3u8
-#EXTINF:-1 tvg-id="3BBSportsOne.th" tvg-name="3BB Sports One (DRM Protected)" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBsports1_new.png" tvg-country="TH" tvg-url="" group-title="Sports",3BB Sports One (DRM Protected)
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0190/HLS/V0190.m3u8
+#EXTINF:-1 tvg-id="3BBSportsOne.th" tvg-name="3BB Sports One" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBsports1_new.png" tvg-country="TH" tvg-url="" group-title="Sports",3BB Sports One
+https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/D0190/HLS/D0190.m3u8
 #EXTINF:-1 tvg-id="beINSports1.th" tvg-name="beIN Sports 1 (DRM Protected)" tvg-language="English" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png" tvg-country="TH" tvg-url="" group-title="Sports",beIN Sports 1 (DRM Protected)
 https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0001/HLS/S0001.m3u8
 #EXTINF:-1 tvg-id="beINSports2.th" tvg-name="beIN Sports 2 (DRM Protected)" tvg-language="English" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png" tvg-country="TH" tvg-url="" group-title="Sports",beIN Sports 2 (DRM Protected)
@@ -121,10 +121,10 @@ https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0007/HLS/
 https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0113/HLS/V0113.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.th" tvg-name="Cartoon Network (DRM Protected)" tvg-language="English" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png" tvg-country="TH" tvg-url="" group-title="Cartoon",Cartoon Network (DRM Protected)
 https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/X171/HLS/X171.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.th" tvg-name="Nickelodeon (DRM Protected)" tvg-language="English" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickelodeon2.png" tvg-country="TH" tvg-url="" group-title="Cartoon",Nickelodeon (DRM Protected)
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0187/HLS/V0187.m3u8
-#EXTINF:-1 tvg-id="NickJr.th" tvg-name="Nick Jr. (DRM Protected)" tvg-language="English" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/Nickjr_2024.png" tvg-country="TH" tvg-url="" group-title="Cartoon",Nick Jr. (DRM Protected)
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0186/HLS/V0186.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.th" tvg-name="Nickelodeon" tvg-language="English" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickelodeon2.png" tvg-country="TH" tvg-url="" group-title="Cartoon",Nickelodeon
+https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/D0187/HLS/D0187.m3u8
+#EXTINF:-1 tvg-id="NickJr.th" tvg-name="Nick Jr." tvg-language="English" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/Nickjr_2024.png" tvg-country="TH" tvg-url="" group-title="Cartoon",Nick Jr.
+https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/D0186/HLS/D0186.m3u8
 #EXTINF:-1 tvg-id="Boomerang.th" tvg-name="Boomerang" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang2024.png" tvg-country="TH" tvg-url="https://mvtv.co.th" group-title="Cartoon",Boomerang
 https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0104/HLS/V0104.m3u8
 #EXTINF:-1 tvg-id="CartoonClub.th" tvg-name="Cartoon Club" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0100.png" tvg-country="TH" tvg-url="http://cartoonclub.tv" group-title="Cartoon",Cartoon Club
@@ -145,10 +145,10 @@ https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0153/HLS/
 https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0102/HLS/V0102.m3u8
 #EXTINF:-1 tvg-id="RTDocumentary.th" tvg-name="RT Documentary" tvg-language="English" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//RTDocumentary.png" tvg-country="TH" tvg-url="" group-title="Documentary",RT Documentary
 https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0106/HLS/V0106.m3u8
-#EXTINF:-1 tvg-id="CNN.th" tvg-name="CNN (DRM Protected)" tvg-language="English" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0172.png" tvg-country="TH" tvg-url="" group-title="News",CNN (DRM Protected)
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0172/HLS/V0172.m3u8
-#EXTINF:-1 tvg-id="BBCNews.th" tvg-name="BBC News (DRM Protected)" tvg-language="English" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/BBCNEWS.png" tvg-country="TH" tvg-url="" group-title="News",BBC News (DRM Protected)
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0125/HLS/V0125.m3u8
+#EXTINF:-1 tvg-id="CNN.th" tvg-name="CNN" tvg-language="English" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0172.png" tvg-country="TH" tvg-url="" group-title="News",CNN
+https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/D0172/HLS/D0172.m3u8
+#EXTINF:-1 tvg-id="BBCNews.th" tvg-name="BBC News" tvg-language="English" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/BBCNEWS.png" tvg-country="TH" tvg-url="" group-title="News",BBC News
+https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/D0125/HLS/D0125.m3u8
 #EXTINF:-1 tvg-id="CCTV4.th" tvg-name="CCTV4" tvg-language="Chinese" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/CCTV4.png" tvg-country="TH" tvg-url="" group-title="",CCTV4
 https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0173/HLS/V0173.m3u8
 #EXTINF:-1 tvg-id="CGTN.th" tvg-name="CGTN" tvg-language="English" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/CGTN.png" tvg-country="TH" tvg-url="" group-title="",CGTN
