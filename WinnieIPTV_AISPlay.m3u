@@ -1,43 +1,43 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NBT.th" tvg-name="NBT HD" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png" tvg-country="TH" tvg-url="http://nbt2hd.prd.go.th" group-title="News",NBT HD
+#EXTINF:-1 tvg-id="NBT.th" tvg-name="NBT HD" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png" tvg-country="TH" tvg-url="http://nbt2hd.prd.go.th" group-title="Digital TV",NBT HD
 https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0001/HLS/B0001.m3u8
-#EXTINF:-1 tvg-id="ThaiPBS.th" tvg-name="Thai PBS HD" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png" tvg-country="TH" tvg-url="https://www.thaipbs.or.th" group-title="",Thai PBS HD
+#EXTINF:-1 tvg-id="ThaiPBS.th" tvg-name="Thai PBS HD" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png" tvg-country="TH" tvg-url="https://www.thaipbs.or.th" group-title="Digital TV",Thai PBS HD
 https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0014/HLS/B0014.m3u8
-#EXTINF:-1 tvg-id="ALTV.th" tvg-name="ALTV" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ALTV.PNG" tvg-country="TH" tvg-url="https://www.altv.tv" group-title="Education",ALTV
+#EXTINF:-1 tvg-id="ALTV.th" tvg-name="ALTV" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ALTV.PNG" tvg-country="TH" tvg-url="https://www.altv.tv" group-title="Digital TV",ALTV
 https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0085/HLS/V0085.m3u8
-#EXTINF:-1 tvg-id="Channel5.th" tvg-name="TV5 HD" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//ch5new.logo.png" tvg-country="TH" tvg-url="http://www.tv5.co.th" group-title="",TV5 HD1
+#EXTINF:-1 tvg-id="Channel5.th" tvg-name="TV5 HD" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//ch5new.logo.png" tvg-country="TH" tvg-url="http://www.tv5.co.th" group-title="Digital TV",TV5 HD
 https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0007/HLS/B0007.m3u8
-#EXTINF:-1 tvg-id="ThaiParliamentTelevision.th" tvg-name="TPTV" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0048.png" tvg-country="TH" tvg-url="https://www.parliament.go.th" group-title="News",TPTV
+#EXTINF:-1 tvg-id="ThaiParliamentTelevision.th" tvg-name="TPTV" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0048.png" tvg-country="TH" tvg-url="https://www.parliament.go.th" group-title="Digital TV",TPTV
 https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0048/HLS/V0048.m3u8
-#EXTINF:-1 tvg-id="TNN16.th" tvg-name="TNN16" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png" tvg-country="TH" tvg-url="https://www.tnnthailand.com" group-title="News",TNN16
+#EXTINF:-1 tvg-id="TNN16.th" tvg-name="TNN16" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png" tvg-country="TH" tvg-url="https://www.tnnthailand.com" group-title="Digital TV",,TNN16
 https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0053/HLS/V0053.m3u8
-#EXTINF:-1 tvg-id="JKN18.th" tvg-name="JKN 18" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png" tvg-country="TH" tvg-url="https://www.newtv.co.th" group-title="Documentary",JKN 18
+#EXTINF:-1 tvg-id="JKN18.th" tvg-name="JKN 18" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png" tvg-country="TH" tvg-url="https://www.newtv.co.th" group-title="Digital TV",,JKN 18
 https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0010/HLS/B0010.m3u8
-#EXTINF:-1 tvg-id="NationTV.th" tvg-name="Nation TV" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png" tvg-country="TH" tvg-url="https://www.nationtv.tv" group-title="News",Nation TV
+#EXTINF:-1 tvg-id="NationTV.th" tvg-name="Nation TV" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png" tvg-country="TH" tvg-url="https://www.nationtv.tv" group-title="Digital TV",Nation TV
 https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0021/HLS/B0021.m3u8
-#EXTINF:-1 tvg-id="WorkpointTV.th" tvg-name="Workpoint TV" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png" tvg-country="TH" tvg-url="https://www.workpointtv.com" group-title="Entertainment",Workpoint TV
+#EXTINF:-1 tvg-id="WorkpointTV.th" tvg-name="Workpoint TV" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png" tvg-country="TH" tvg-url="https://www.workpointtv.com" group-title="Digital TV",Workpoint TV
 https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0015/HLS/B0015.m3u8
-#EXTINF:-1 tvg-id="True4U.th" tvg-name="True4U" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" tvg-country="TH" tvg-url="http://www.true4u.com" group-title="Entertainment",True4U
+#EXTINF:-1 tvg-id="True4U.th" tvg-name="True4U" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" tvg-country="TH" tvg-url="http://www.true4u.com" group-title="Digital TV",True4U
 https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0054/HLS/B0054.m3u8
-#EXTINF:-1 tvg-id="GMM25.th" tvg-name="GMM25" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png" tvg-country="TH" tvg-url="https://www.gmm25.com" group-title="Entertainment",GMM25
+#EXTINF:-1 tvg-id="GMM25.th" tvg-name="GMM25" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png" tvg-country="TH" tvg-url="https://www.gmm25.com" group-title="Digital TV",GMM25
 https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0019/HLS/B0019.m3u8
-#EXTINF:-1 tvg-id="Channel8.th" tvg-name="CH8" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png" tvg-country="TH" tvg-url="https://www.thaich8.com" group-title="",CH8
+#EXTINF:-1 tvg-id="Channel8.th" tvg-name="CH8" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png" tvg-country="TH" tvg-url="https://www.thaich8.com" group-title="Digital TV",CH8
 https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0006/HLS/B0006.m3u8
-#EXTINF:-1 tvg-id="MONO29.th" tvg-name="MONO29" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png" tvg-country="TH" tvg-url="https://mono29.com/" group-title="Entertainment",MONO29
+#EXTINF:-1 tvg-id="MONO29.th" tvg-name="MONO29" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png" tvg-country="TH" tvg-url="https://mono29.com/" group-title="Digital TV",MONO29
 https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0016/HLS/B0016.m3u8
-#EXTINF:-1 tvg-id="MCOT.th" tvg-name="MCOT HD" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png" tvg-country="TH" tvg-url="https://www.mcot.net/" group-title="",MCOT HD
+#EXTINF:-1 tvg-id="MCOT.th" tvg-name="MCOT HD" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png" tvg-country="TH" tvg-url="https://www.mcot.net/" group-title="Digital TV",MCOT HD
 https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0008/HLS/B0008.m3u8
-#EXTINF:-1 tvg-id="ONE.th" tvg-name="ONE HD" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png" tvg-country="TH" tvg-url="https://www.one31.net/" group-title="",ONE HD
+#EXTINF:-1 tvg-id="ONE.th" tvg-name="ONE HD" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png" tvg-country="TH" tvg-url="https://www.one31.net/" group-title="Digital TV",ONE HD
 https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0012/HLS/B0012.m3u8
-#EXTINF:-1 tvg-id="ThairathTV.th" tvg-name="Thairath HD" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png" tvg-country="TH" tvg-url="https://www.thairath.co.th/" group-title="",Thairath HD
+#EXTINF:-1 tvg-id="ThairathTV.th" tvg-name="Thairath HD" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png" tvg-country="TH" tvg-url="https://www.thairath.co.th/" group-title="Digital TV",Thairath HD
 https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0013/HLS/B0013.m3u8
-#EXTINF:-1 tvg-id="Channel3.th" tvg-name="Channel 3 HD" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG" tvg-country="TH" tvg-url="https://www.ch3thailand.com" group-title="Entertainment",Channel 3 HD
+#EXTINF:-1 tvg-id="Channel3.th" tvg-name="Channel 3 HD" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG" tvg-country="TH" tvg-url="https://www.ch3thailand.com" group-title="Digital TV",Channel 3 HD
 https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0003/HLS/B0003.m3u8
-#EXTINF:-1 tvg-id="AmarinTV.th" tvg-name="Amarin TV HD" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/AmarinTV_NEW512.png" tvg-country="TH" tvg-url="https://www.amarintv.com" group-title="Entertainment",Amarin TV HD
+#EXTINF:-1 tvg-id="AmarinTV.th" tvg-name="Amarin TV HD" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/AmarinTV_NEW512.png" tvg-country="TH" tvg-url="https://www.amarintv.com" group-title="Digital TV",Amarin TV HD
 https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0017/HLS/B0017.m3u8
-#EXTINF:-1 tvg-id="Channel7.th" tvg-name="CH7 HD" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png" tvg-country="TH" tvg-url="https://www.ch7.com" group-title="Entertainment",CH7 HD
+#EXTINF:-1 tvg-id="Channel7.th" tvg-name="CH7 HD" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png" tvg-country="TH" tvg-url="https://www.ch7.com" group-title="Digital TV",CH7 HD
 https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0018/HLS/B0018.m3u8
-#EXTINF:-1 tvg-id="PPTV.th" tvg-name="PPTV HD" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png" tvg-country="TH" tvg-url="https://www.pptvhd36.com" group-title="Entertainment",PPTV HD
+#EXTINF:-1 tvg-id="PPTV.th" tvg-name="PPTV HD" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png" tvg-country="TH" tvg-url="https://www.pptvhd36.com" group-title="Digital TV",PPTV HD
 https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0022/HLS/B0022.m3u8
 #EXTINF:-1 tvg-id="VTVNews.th" tvg-name="VTV News (Voice TV)" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/VTVNews.png" tvg-country="TH" tvg-url="" group-title="News",VTV News (Voice TV)
 https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0026/HLS/V0026.m3u8
