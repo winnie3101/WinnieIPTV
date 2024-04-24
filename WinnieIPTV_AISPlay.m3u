@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="NBT.th" tvg-name="NBT HD" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png" tvg-country="TH" tvg-url="http://nbt2hd.prd.go.th" group-title="Digital TV",NBT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com
 https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0001/HLS/B0001.m3u8
 #EXTINF:-1 tvg-id="ThaiPBS.th" tvg-name="Thai PBS HD" tvg-language="Thai" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png" tvg-country="TH" tvg-url="https://www.thaipbs.or.th" group-title="Digital TV",Thai PBS HD
 https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0014/HLS/B0014.m3u8
