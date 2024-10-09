@@ -73,7 +73,7 @@ http://edaily.flive.skcdn.com:1935/high/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gayo TV" tvg-language="Korean" tvg-logo="https://i.imgur.com/CJxrnvV.jpg" tvg-country="KR" tvg-url="http://gayotv.co.kr/" group-title="Music",Gayo TV
 http://gayotv.net:8080/live/gayotv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gayo TV (RTMP)" tvg-language="Korean" tvg-logo="https://i.imgur.com/CJxrnvV.jpg" tvg-country="KR" tvg-url="http://gayotv.co.kr/" group-title="Music",Gayo TV (RTMP)
-rtmp://gayotv.net/live/gayotv
+rtmp://gayotv.net/live
 #EXTINF:-1 tvg-id="" tvg-name="Gayo TV (South Korea IP ONLY)" tvg-language="Korean" tvg-logo="https://i.imgur.com/CJxrnvV.jpg" tvg-country="KR" tvg-url="http://gayotv.co.kr/" group-title="Music",Gayo TV (South Korea IP ONLY)
 http://1.214.67.210/vod/79401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
 #EXTINF:-1 tvg-id="" tvg-name="Gugak TV" tvg-language="Korean" tvg-logo="https://i.imgur.com/5Zh9wBR.jpg" tvg-country="KR" tvg-url="" group-title="Cultures",Gugak TV
