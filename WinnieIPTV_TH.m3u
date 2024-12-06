@@ -35,6 +35,7 @@ https://ssai-streaming.thairath.co.th/bamm-csai/720p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel 3 HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/vzdU2xD.png" tvg-country="TH" tvg-url="https://www.ch3thailand.com" group-title="Entertainment",Channel 3 HD
 https://parselink.winnie.in.th/th_live/ch3.php
 #EXTINF:-1 tvg-id="" tvg-name="Amarin TV HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/5q48OBS.png" tvg-country="TH" tvg-url="https://www.amarintv.com" group-title="Entertainment",Amarin TV HD
+#EXTVLCOPT:http-referrer=https://www.amarintv.com/
 https://parselink.winnie.in.th/th_live/amarin_tv.php
 #EXTINF:-1 tvg-id="" tvg-name="CH7 HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/DcrHenu.png" tvg-country="TH" tvg-url="https://www.ch7.com" group-title="Entertainment",CH7 HD
 https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8
