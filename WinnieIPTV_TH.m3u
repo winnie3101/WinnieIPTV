@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="NBT HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/xxKyygZ.jpg" tvg-country="TH" tvg-url="http://nbt2hd.prd.go.th" group-title="News",NBT HD
-https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist_w1720690897_b3128000.m3u8
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa.smil/chunklist_w805546774_b3128000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Thai PBS HD" tvg-language="Thai" tvg-logo="https://i.imgur.com/BpFxw3p.png" tvg-country="TH" tvg-url="https://www.thaipbs.or.th" group-title="",Thai PBS HD
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALTV" tvg-language="Thai" tvg-logo="https://i.imgur.com/3EqQO2L.png" tvg-country="TH" tvg-url="https://www.altv.tv" group-title="Education",ALTV
