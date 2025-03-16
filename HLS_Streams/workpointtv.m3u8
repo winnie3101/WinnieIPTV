@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:7
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="origin",NAME="mp4a.40.2",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="th",URI="https://global-media.sooplive.com/live/audio/workpoint/origin/playlist.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1920x1080,AUDIO="origin"
+https://global-media.sooplive.com/live/video/workpoint/1920x1080/playlist.m3u8
