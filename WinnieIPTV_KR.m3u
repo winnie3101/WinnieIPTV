@@ -122,8 +122,6 @@ http://1.214.67.40/vod/76701.m3u8?SessionID=f9e384c3-07d8-4229-b7e8-f949cde0a2de
 #EXTINF:-1 tvg-id="" tvg-name="JTBC Golf (South Korea IP ONLY)" tvg-language="Korean" tvg-logo="https://i.imgur.com/0XUrW9Y.jpg" tvg-country="KR" tvg-url="https://jtbc.co.kr"1 group-title="Sports",JTBC Golf (South Korea IP ONLY)
 http://1.214.67.12:80/60201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1080P;WIFI
 #EXTINF:-1 tvg-id="" tvg-name="JTBC Golf & Sports" tvg-language="Korean" tvg-logo="https://i.imgur.com/16Ag0yL.png" tvg-country="KR" tvg-url="https://jtbc.co.kr"1 group-title="Sports",JTBC Golf & Sports
-http://112.187.218.162:9981/stream/channelid/111
-#EXTINF:-1 tvg-id="" tvg-name="JTBC Golf & Sports (Mirror)" tvg-language="Korean" tvg-logo="https://i.imgur.com/16Ag0yL.png" tvg-country="KR" tvg-url="https://jtbc.co.kr"1 group-title="Sports",JTBC Golf & Sports (Mirror)
 https://parselink.winnie.in.th/kr_live/jtbc_golfsports.php
 #EXTINF:-1 tvg-id="" tvg-name="JTBC Golf & Sports (South Korea IP ONLY)" tvg-language="Korean" tvg-logo="https://i.imgur.com/16Ag0yL.png" tvg-country="KR" tvg-url="https://jtbc.co.kr"1 group-title="Sports",JTBC Golf & Sports (South Korea IP ONLY)
 http://1.214.67.12:80/79501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1080P;WIFI
