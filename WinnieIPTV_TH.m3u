@@ -16,7 +16,7 @@ https://5f27aa1f6ef91.streamlock.net/jkn18/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nation TV" tvg-language="Thai" tvg-logo="https://i.imgur.com/GwkjNsF.png" tvg-country="TH" tvg-url="https://www.nationtv.tv" group-title="News",Nation TV
 https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/1080p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Workpoint TV" tvg-language="Thai" tvg-logo="https://i.imgur.com/xZFOzHr.jpg" tvg-country="TH" tvg-url="https://www.workpointtv.com" group-title="Entertainment",Workpoint TV
-https://global-media.sooplive.com/live/workpoint/master.m3u8
+https://github.com/winnie3101/WinnieIPTV/raw/refs/heads/main/HLS_Streams/workpointtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="True4U" tvg-language="Thai" tvg-logo="https://i.imgur.com/owt9DXr.jpg" tvg-country="TH" tvg-url="http://www.true4u.com" group-title="Entertainment",True4U
 https://parselink.winnie.in.th/th_live/true4u.php
 #EXTINF:-1 tvg-id="" tvg-name="GMM25" tvg-language="Thai" tvg-logo="https://i.imgur.com/mENgVzV.png" tvg-country="TH" tvg-url="https://www.gmm25.com" group-title="Entertainment",GMM25
