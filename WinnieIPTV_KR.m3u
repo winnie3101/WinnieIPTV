@@ -99,7 +99,7 @@ https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="JEI English TV (South Korea IP ONLY)" tvg-language="Korean" tvg-logo="https://i.imgur.com/xmUziGL.png" tvg-country="KR" tvg-url="https://jeienglishtv.com/main/main.do"1 group-title="Educational",JEI English TV (South Korea IP ONLY)
 http://1.214.67.100/vod/79301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1080P;WIFI
 #EXTINF:-1 tvg-id="" tvg-name="JTBC" tvg-language="Korean" tvg-logo="https://i.imgur.com/oTAWtZ1.png" tvg-country="KR" tvg-url="https://jtbc.co.kr"1 group-title="Korean",JTBC
-http://112.187.218.162:9981/stream/channelid/79
+https://parselink.winnie.in.th/kr_live/jtbc.php
 #EXTINF:-1 tvg-id="" tvg-name="JTBC (480p)" tvg-language="Korean" tvg-logo="https://i.imgur.com/oTAWtZ1.png" tvg-country="KR" tvg-url="https://jtbc.co.kr"1 group-title="Korean",JTBC (480p)
 #EXTVLCOPT:http-referrer=https://sdr4w5g.allyearcdn.com/player/live/?g=5pb6uqm5gr&q=0&sports=false
 https://azure2986.fastedge.net/live2/5pb6uqm5gr/chunklist.m3u8
