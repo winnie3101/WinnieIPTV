@@ -291,6 +291,8 @@ http://112.187.218.162:9981/stream/channelid/26
 
 #EXTINF:-1 tvg-id="" tvg-name="SBS Golf (South Korea IP ONLY)" tvg-language="Korean" tvg-logo="https://i.imgur.com/XG8yYm4.jpg" tvg-country="KR" tvg-url="https://www.sbs.co.kr/"1 group-title="Sport",SBS Golf (South Korea IP ONLY)
 http://1.214.67.12:80/61401.m3u8?AdaptiveType=HLS&VOD_RequestID=v2M2-0101-1010-7272-5050-000020201213223628;LTE;480p;WIFI
+#EXTINF:-1 tvg-id="" tvg-name="SBS JTV" tvg-language="Korean" tvg-logo="https://i.imgur.com/QLU1hem.png" tvg-country="KR" tvg-url="https://www.jtv.co.kr/"1 group-title="Korean",SBS JTV
+https://jtvonair.sbsoft.net/jtv_live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SBS M" tvg-language="Korean" tvg-logo="https://i.imgur.com/PSNeRHI.png" tvg-country="KR" tvg-url="https://www.sbs.co.kr/"1 group-title="Music",SBS M
 
 #EXTINF:-1 tvg-id="" tvg-name="SBS Plus" tvg-language="Korean" tvg-logo="https://i.imgur.com/Tf17nIu.png" tvg-country="KR" tvg-url="https://www.sbs.co.kr/"1 group-title="Korean",SBS Plus
@@ -411,3 +413,4 @@ http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="YTN Science (Mirror)" tvg-language="Korean" tvg-logo="https://i.imgur.com/Nxxy1WU.png" tvg-country="KR" tvg-url=""1 group-title="Knowledge",YTN Science (Mirror)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/YTN%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4TV/live
+
